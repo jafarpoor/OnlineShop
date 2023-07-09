@@ -1,0 +1,12 @@
+F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Shared\bin\Debug\net7.0\EndPoint.Admin.Shared.deps.json
+F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Shared\bin\Debug\net7.0\EndPoint.Admin.Shared.dll
+F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Shared\bin\Debug\net7.0\EndPoint.Admin.Shared.pdb
+F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Shared\obj\Debug\net7.0\EndPoint.Admin.Shared.csproj.AssemblyReference.cache
+F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Shared\obj\Debug\net7.0\EndPoint.Admin.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Shared\obj\Debug\net7.0\EndPoint.Admin.Shared.AssemblyInfoInputs.cache
+F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Shared\obj\Debug\net7.0\EndPoint.Admin.Shared.AssemblyInfo.cs
+F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Shared\obj\Debug\net7.0\EndPoint.Admin.Shared.csproj.CoreCompileInputs.cache
+F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Shared\obj\Debug\net7.0\EndPoint.Admin.Shared.dll
+F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Shared\obj\Debug\net7.0\refint\EndPoint.Admin.Shared.dll
+F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Shared\obj\Debug\net7.0\EndPoint.Admin.Shared.pdb
+F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Shared\obj\Debug\net7.0\ref\EndPoint.Admin.Shared.dll

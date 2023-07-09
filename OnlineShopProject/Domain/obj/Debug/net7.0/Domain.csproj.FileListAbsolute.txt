@@ -1,0 +1,12 @@
+F:\OnlineShop\OnlineShopProject\Domain\bin\Debug\net7.0\Domain.deps.json
+F:\OnlineShop\OnlineShopProject\Domain\bin\Debug\net7.0\Domain.dll
+F:\OnlineShop\OnlineShopProject\Domain\bin\Debug\net7.0\Domain.pdb
+F:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+F:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+F:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+F:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+F:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.dll
+F:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\refint\Domain.dll
+F:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.pdb
+F:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\ref\Domain.dll

@@ -1,0 +1,17 @@
+F:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Persistence.deps.json
+F:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+F:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Persistence.dll
+F:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Persistence.pdb
+F:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Application.dll
+F:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Application.pdb
+F:\OnlineShop\OnlineShopProject\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+F:\OnlineShop\OnlineShopProject\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\OnlineShop\OnlineShopProject\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+F:\OnlineShop\OnlineShopProject\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+F:\OnlineShop\OnlineShopProject\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+F:\OnlineShop\OnlineShopProject\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+F:\OnlineShop\OnlineShopProject\Persistence\obj\Debug\net7.0\Persistence.dll
+F:\OnlineShop\OnlineShopProject\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+F:\OnlineShop\OnlineShopProject\Persistence\obj\Debug\net7.0\Persistence.pdb
+F:\OnlineShop\OnlineShopProject\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
+F:\OnlineShop\OnlineShopProject\Persistence\obj\Debug\net7.0\ref\Persistence.dll
