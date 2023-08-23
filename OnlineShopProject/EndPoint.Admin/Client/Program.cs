@@ -1,4 +1,5 @@
 using EndPoint.Admin.Client;
+using Infra;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 
@@ -8,4 +9,5 @@ builder.RootComponents.Add<HeadOutlet>("head::after");
 
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
 
+builder.AddClientServices();
 await builder.Build().RunAsync();

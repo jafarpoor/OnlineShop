@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {}
+    "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {}
   },
   "projects": {
-    "F:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
+    "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "F:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\jafapour\\.nuget\\packages\\",
-        "outputPath": "F:\\OnlineShop\\OnlineShopProject\\Application\\obj\\",
+        "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\jafarpoor-f\\.nuget\\packages\\",
+        "outputPath": "E:\\OnlineShop\\OnlineShopProject\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jafapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jafarpoor-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

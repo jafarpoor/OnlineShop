@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jafapour\\.nuget\\packages\\": {}
+    "C:\\Users\\jafarpoor-f\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\OnlineShop\\OnlineShopProject\\Common\\Common.csproj",
+      "projectUniqueName": "E:\\OnlineShop\\OnlineShopProject\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "F:\\OnlineShop\\OnlineShopProject\\Common\\Common.csproj",
-      "packagesPath": "C:\\Users\\jafapour\\.nuget\\packages\\",
-      "outputPath": "F:\\OnlineShop\\OnlineShopProject\\Common\\obj\\",
+      "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Common\\Common.csproj",
+      "packagesPath": "C:\\Users\\jafarpoor-f\\.nuget\\packages\\",
+      "outputPath": "E:\\OnlineShop\\OnlineShopProject\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jafapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jafarpoor-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

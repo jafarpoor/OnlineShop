@@ -3479,19 +3479,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jafapour\\.nuget\\packages\\": {}
+    "C:\\Users\\jafarpoor-f\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "E:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "F:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj",
-      "packagesPath": "C:\\Users\\jafapour\\.nuget\\packages\\",
-      "outputPath": "F:\\OnlineShop\\OnlineShopProject\\Persistence\\obj\\",
+      "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj",
+      "packagesPath": "C:\\Users\\jafarpoor-f\\.nuget\\packages\\",
+      "outputPath": "E:\\OnlineShop\\OnlineShopProject\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jafapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jafarpoor-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3505,8 +3505,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
-              "projectPath": "F:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj"
+            "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
+              "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj"
             }
           }
         }

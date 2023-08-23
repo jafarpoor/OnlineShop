@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Server\\EndPoint.Admin.Server.csproj": {}
+    "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Server\\EndPoint.Admin.Server.csproj": {}
   },
   "projects": {
-    "F:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
+    "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "F:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\jafapour\\.nuget\\packages\\",
-        "outputPath": "F:\\OnlineShop\\OnlineShopProject\\Application\\obj\\",
+        "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\jafarpoor-f\\.nuget\\packages\\",
+        "outputPath": "E:\\OnlineShop\\OnlineShopProject\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jafapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jafarpoor-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,17 +59,17 @@
         }
       }
     },
-    "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\EndPoint.Admin.Client.csproj": {
+    "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\EndPoint.Admin.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\EndPoint.Admin.Client.csproj",
+        "projectUniqueName": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\EndPoint.Admin.Client.csproj",
         "projectName": "EndPoint.Admin.Client",
-        "projectPath": "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\EndPoint.Admin.Client.csproj",
-        "packagesPath": "C:\\Users\\jafapour\\.nuget\\packages\\",
-        "outputPath": "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\obj\\",
+        "projectPath": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\EndPoint.Admin.Client.csproj",
+        "packagesPath": "C:\\Users\\jafarpoor-f\\.nuget\\packages\\",
+        "outputPath": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jafapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jafarpoor-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj": {
-                "projectPath": "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj"
+              "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj": {
+                "projectPath": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj"
               }
             }
           }
@@ -140,17 +140,17 @@
         }
       }
     },
-    "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Server\\EndPoint.Admin.Server.csproj": {
+    "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Server\\EndPoint.Admin.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Server\\EndPoint.Admin.Server.csproj",
+        "projectUniqueName": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Server\\EndPoint.Admin.Server.csproj",
         "projectName": "EndPoint.Admin.Server",
-        "projectPath": "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Server\\EndPoint.Admin.Server.csproj",
-        "packagesPath": "C:\\Users\\jafapour\\.nuget\\packages\\",
-        "outputPath": "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Server\\obj\\",
+        "projectPath": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Server\\EndPoint.Admin.Server.csproj",
+        "packagesPath": "C:\\Users\\jafarpoor-f\\.nuget\\packages\\",
+        "outputPath": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jafapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jafarpoor-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,17 +164,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
-                "projectPath": "F:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj"
+              "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
+                "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj"
               },
-              "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\EndPoint.Admin.Client.csproj": {
-                "projectPath": "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\EndPoint.Admin.Client.csproj"
+              "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\EndPoint.Admin.Client.csproj": {
+                "projectPath": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\EndPoint.Admin.Client.csproj"
               },
-              "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj": {
-                "projectPath": "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj"
+              "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj": {
+                "projectPath": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj"
               },
-              "F:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj": {
-                "projectPath": "F:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj"
+              "E:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj": {
+                "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -217,17 +217,17 @@
         }
       }
     },
-    "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj": {
+    "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj",
+        "projectUniqueName": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj",
         "projectName": "EndPoint.Admin.Shared",
-        "projectPath": "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj",
-        "packagesPath": "C:\\Users\\jafapour\\.nuget\\packages\\",
-        "outputPath": "F:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\obj\\",
+        "projectPath": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj",
+        "packagesPath": "C:\\Users\\jafarpoor-f\\.nuget\\packages\\",
+        "outputPath": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jafapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jafarpoor-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -272,17 +272,17 @@
         }
       }
     },
-    "F:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj": {
+    "E:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "E:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "F:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\jafapour\\.nuget\\packages\\",
-        "outputPath": "F:\\OnlineShop\\OnlineShopProject\\Persistence\\obj\\",
+        "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\jafarpoor-f\\.nuget\\packages\\",
+        "outputPath": "E:\\OnlineShop\\OnlineShopProject\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jafapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jafarpoor-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -296,8 +296,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
-                "projectPath": "F:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj"
+              "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
+                "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj"
               }
             }
           }

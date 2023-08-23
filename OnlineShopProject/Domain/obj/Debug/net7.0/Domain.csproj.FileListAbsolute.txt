@@ -10,3 +10,15 @@ F:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.dll
 F:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\refint\Domain.dll
 F:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.pdb
 F:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\ref\Domain.dll
+E:\OnlineShop\OnlineShopProject\Domain\bin\Debug\net7.0\Domain.deps.json
+E:\OnlineShop\OnlineShopProject\Domain\bin\Debug\net7.0\Domain.dll
+E:\OnlineShop\OnlineShopProject\Domain\bin\Debug\net7.0\Domain.pdb
+E:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+E:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+E:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+E:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+E:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.dll
+E:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\refint\Domain.dll
+E:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\Domain.pdb
+E:\OnlineShop\OnlineShopProject\Domain\obj\Debug\net7.0\ref\Domain.dll
