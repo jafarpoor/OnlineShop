@@ -4,25 +4,16 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>EndPoint.Admin</title>
+    <title>TestBlazor</title>
     <base href="/" />
-    <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
+
+    <link href="lib/bootstrap/css/bootstrap.rtl.min.css" rel="stylesheet" />
     <link href="css/app.css" rel="stylesheet" />
-    <link rel="icon" type="image/png" href="favicon.png" />
     <link href="EndPoint.Admin.Client.styles.css" rel="stylesheet" />
-
-
-
 </head>
 
-<body>
-    <div id="app">
-        <svg class="loading-progress">
-            <circle r="40%" cx="50%" cy="50%" />
-            <circle r="40%" cx="50%" cy="50%" />
-        </svg>
-        <div class="loading-progress-text"></div>
-    </div>
+<body dir="rtl" style="text-align: right;">
+    <div id="app">Loading...</div>
 
     <div id="blazor-error-ui">
         An unhandled error has occurred.
@@ -30,27 +21,7 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
-
-    
-    <!-- END MAIN CONTAINER index2  feazeh-->
-    <!-- BEGIN GLOBAL MANDATORY SCRIPTS -->
-    <script src="/Theme/assets/js/libs/jquery-3.1.1.min.js"></script>
-    <script src="bootstrap/js/popper.min.js"></script>
-    <script src="bootstrap/js/bootstrap.min.js"></script>
-    <script src="plugins/perfect-scrollbar/perfect-scrollbar.min.js"></script>
-    <script src="/Theme//Theme//Theme/assets/js/app.js"></script>
-    <script>
-        $(document).ready(function () {
-            App.init();
-        });
-    </script>
-    <script src="Theme/assets/js/custom.js"></script>
-    <!-- END GLOBAL MANDATORY SCRIPTS -->
-    <!-- BEGIN PAGE LEVEL PLUGINS/CUSTOM SCRIPTS -->
-    <script src="plugins/apex/apexcharts.min.js"></script>
-    <script src="Theme/assets/js/dashboard/dash_2.js"></script>
-    <!-- BEGIN PAGE LEVEL PLUGINS/CUSTOM SCRIPTS  index2 faezeh end-->
-
+    <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

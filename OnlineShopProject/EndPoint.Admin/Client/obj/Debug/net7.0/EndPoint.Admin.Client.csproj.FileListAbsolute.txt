@@ -1670,3 +1670,4 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\refint\EndPoint.Admin.Client.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\ref\EndPoint.Admin.Client.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\libman.json

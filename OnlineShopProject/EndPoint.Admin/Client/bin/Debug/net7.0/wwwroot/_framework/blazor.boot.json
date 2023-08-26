@@ -199,14 +199,14 @@
       "netstandard.dll": "sha256-+jUzj0FB0YcoBUeSkSNEjhVDTG08qbZ2twfCBMbzT+Q=",
       "System.Private.CoreLib.dll": "sha256-l+\/quNqfNCSUDSMJcp0+IxlSdOdnAtwVVWMXmYGHMpg=",
       "EndPoint.Admin.Shared.dll": "sha256-8a9MB6PUjLV8iz+doOTqEd3kob4BZOVsW90uVFdvACk=",
-      "EndPoint.Admin.Client.dll": "sha256-P2Gp24cLwOnWTcGedJ2HBID03273TPXsCd7z8y9Yyg0="
+      "EndPoint.Admin.Client.dll": "sha256-02zdGF7bKsMWJRmcONkx2MoiUI4cIh+idKlQ3RmO2So="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "EndPoint.Admin.Shared.pdb": "sha256-m4jZ\/h09dPLVZifjhABxZT4HmcB2H4e5vra2KynA+I4=",
-      "EndPoint.Admin.Client.pdb": "sha256-Ht8AkVVQCtb4D6I\/v8wcrUbtXA+B6fDLWujW\/zKCsM0="
+      "EndPoint.Admin.Client.pdb": "sha256-ZiJtUUBGUCYyV\/1JpOoeJMWsKcnI4FGb0uWHTdQautQ="
     },
     "runtime": {
       "dotnet.7.0.1.h6bkv5fxiq.js": "sha256-jjax3FMRXzFAziWowdtJf6vipP2xXAaA5gD6VBYB6Y0=",
