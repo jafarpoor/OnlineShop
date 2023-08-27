@@ -834,12 +834,6 @@ F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.
 F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\refint\EndPoint.Admin.Client.dll
 F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.pdb
 F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\ref\EndPoint.Admin.Client.dll
-E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.csproj.AssemblyReference.cache
-E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.GeneratedMSBuildEditorConfig.editorconfig
-E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.AssemblyInfoInputs.cache
-E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.AssemblyInfo.cs
-E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.csproj.CoreCompileInputs.cache
-E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.MvcApplicationPartsAssemblyInfo.cache
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.1.h6bkv5fxiq.js
@@ -1247,6 +1241,7 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\libman.json
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\EndPoint.Admin.Client.staticwebassets.runtime.json
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\EndPoint.Admin.Client.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\EndPoint.Admin.Client.pdb
@@ -1450,6 +1445,12 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\icudt_EFI
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\icudt_no_CJK.dat
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\EndPoint.Admin.Shared.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\EndPoint.Admin.Shared.pdb
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.csproj.AssemblyReference.cache
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.AssemblyInfoInputs.cache
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.AssemblyInfo.cs
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.csproj.CoreCompileInputs.cache
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.MvcApplicationPartsAssemblyInfo.cache
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\ygnL+ZBV.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\Wen17zmg.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\nqOLDTwy.gz
@@ -1670,4 +1671,3 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\refint\EndPoint.Admin.Client.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\ref\EndPoint.Admin.Client.dll
-E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\libman.json

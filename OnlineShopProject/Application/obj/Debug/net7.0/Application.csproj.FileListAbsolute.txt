@@ -13,11 +13,14 @@ F:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\ref\Application.dll
 E:\OnlineShop\OnlineShopProject\Application\bin\Debug\net7.0\Application.deps.json
 E:\OnlineShop\OnlineShopProject\Application\bin\Debug\net7.0\Application.dll
 E:\OnlineShop\OnlineShopProject\Application\bin\Debug\net7.0\Application.pdb
+E:\OnlineShop\OnlineShopProject\Application\bin\Debug\net7.0\Domain.dll
+E:\OnlineShop\OnlineShopProject\Application\bin\Debug\net7.0\Domain.pdb
 E:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
 E:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
 E:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
 E:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
 E:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+E:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
 E:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\Application.dll
 E:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\refint\Application.dll
 E:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\Application.pdb

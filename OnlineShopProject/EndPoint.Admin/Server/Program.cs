@@ -6,13 +6,14 @@ using Persistence.Context;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
-builder.Services.AddScoped<IDataBaseContext, DataBaseContext>();
-string ConnectionString = @"data source =.; initial catalog = ProductDb;  integrated security = true  ";
-builder.Services.AddEntityFrameworkSqlServer().AddDbContext<DataBaseContext>(option => option.UseSqlServer(ConnectionString));
-
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+
+#region connectionString
+builder.Services.AddTransient<IDataBaseContext, DataBaseContext>();
+string? connection = builder.Configuration["ConnectionString:SqlServer"];
+builder.Services.AddDbContext<DataBaseContext>(option => option.UseSqlServer(connection));
+#endregion
 
 var app = builder.Build();
 
