@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DTOs/1.0.0": {
+        "dependencies": {
+          "Resoures": "1.0.0"
+        },
+        "runtime": {
+          "DTOs.dll": {}
+        }
+      },
+      "Resoures/1.0.0": {
+        "runtime": {
+          "Resoures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Resoures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

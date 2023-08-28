@@ -197,3 +197,14 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\obj\Debug\net7.0\refint\En
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\obj\Debug\net7.0\EndPoint.Admin.Server.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\obj\Debug\net7.0\EndPoint.Admin.Server.genruntimeconfig.cache
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\obj\Debug\net7.0\ref\EndPoint.Admin.Server.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Authorize.staticwebassets.runtime.json
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Authorize.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Authorize.pdb
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Blazored.LocalStorage.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Authorization.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\DTOs.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Resoures.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\DTOs.pdb
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Resoures.pdb

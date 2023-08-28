@@ -1,0 +1,705 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\_Layout.html",
+      "PackagePath": "staticwebassets\\_Layout.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\apps\\contacts.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\contacts.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\apps\\invoice.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\invoice.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\apps\\mailbox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\mailbox.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\apps\\mailing-chat.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\mailing-chat.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\apps\\notes.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\notes.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\apps\\scrumboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\scrumboard.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\apps\\todolist.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\todolist.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\authentication\\form-1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\authentication\\form-1.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\authentication\\form-2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\authentication\\form-2.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\components\\cards\\card.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\cards\\card.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\components\\custom-carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-carousel.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\components\\custom-countdown.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-countdown.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\components\\custom-counter.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-counter.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\components\\custom-list-group.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-list-group.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\components\\custom-media_object.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-media_object.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\components\\custom-modal.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-modal.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\components\\custom-sweetalert.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-sweetalert.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\components\\tabs-accordian\\custom-accordions.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\tabs-accordian\\custom-accordions.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\components\\tabs-accordian\\custom-tabs.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\tabs-accordian\\custom-tabs.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\components\\timeline\\custom-timeline.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\timeline\\custom-timeline.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\dashboard\\dash_1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dashboard\\dash_1.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\dashboard\\dash_2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dashboard\\dash_2.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\elements\\alert.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\alert.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\elements\\avatar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\avatar.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\elements\\breadcrumb.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\breadcrumb.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\elements\\color_library.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\color_library.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\elements\\custom-pagination.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\custom-pagination.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\elements\\custom-tree_view.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\custom-tree_view.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\elements\\custom-typography.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\custom-typography.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\elements\\infobox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\infobox.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\elements\\miscellaneous.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\miscellaneous.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\elements\\popover.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\popover.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\elements\\search.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\search.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\elements\\tooltip.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\tooltip.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\font.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\forms\\bootstrap-form.css",
+      "PackagePath": "staticwebassets\\assets\\css\\forms\\bootstrap-form.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\forms\\custom-clipboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\forms\\custom-clipboard.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\forms\\switches.css",
+      "PackagePath": "staticwebassets\\assets\\css\\forms\\switches.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\forms\\theme-checkbox-radio.css",
+      "PackagePath": "staticwebassets\\assets\\css\\forms\\theme-checkbox-radio.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\loader.css",
+      "PackagePath": "staticwebassets\\assets\\css\\loader.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\pages\\coming-soon\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\coming-soon\\style.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\pages\\contact_us.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\contact_us.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\pages\\error\\style-400.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\error\\style-400.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\pages\\error\\style-500.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\error\\style-500.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\pages\\error\\style-503.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\error\\style-503.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\pages\\error\\style-maintanence.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\error\\style-maintanence.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\pages\\faq\\faq.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\faq\\faq.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\pages\\faq\\faq2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\faq\\faq2.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\pages\\helpdesk.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\helpdesk.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\pages\\privacy\\privacy.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\privacy\\privacy.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\scrollspyNav.css",
+      "PackagePath": "staticwebassets\\assets\\css\\scrollspyNav.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\structure.css",
+      "PackagePath": "staticwebassets\\assets\\css\\structure.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\tables\\table-basic.css",
+      "PackagePath": "staticwebassets\\assets\\css\\tables\\table-basic.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\users\\account-setting.css",
+      "PackagePath": "staticwebassets\\assets\\css\\users\\account-setting.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\users\\user-profile.css",
+      "PackagePath": "staticwebassets\\assets\\css\\users\\user-profile.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\css\\widgets\\modules-widgets.css",
+      "PackagePath": "staticwebassets\\assets\\css\\widgets\\modules-widgets.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\BZiba0.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\BZiba0.eot"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\BZiba0.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\BZiba0.otf"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\BZiba0.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\BZiba0.svg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\BZiba0.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\BZiba0.ttf"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\BZiba0.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\BZiba0.woff"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\BZiba0.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\BZiba0.woff2"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\Dirooz-FD.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Dirooz-FD.eot"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\Dirooz-FD.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Dirooz-FD.otf"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\Dirooz-FD.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Dirooz-FD.svg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\Dirooz-FD.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Dirooz-FD.ttf"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\Dirooz-FD.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Dirooz-FD.woff"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\Dirooz-FD.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Dirooz-FD.woff2"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\Lalezar-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Lalezar-Regular.eot"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\Lalezar-Regular.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Lalezar-Regular.otf"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\Lalezar-Regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Lalezar-Regular.svg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\Lalezar-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Lalezar-Regular.ttf"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\Lalezar-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Lalezar-Regular.woff"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\Lalezar-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Lalezar-Regular.woff2"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-duotone-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-duotone-900.eot"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-duotone-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-duotone-900.svg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-light-300.eot"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-light-300.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-light-300.svg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-light-300.ttf"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-light-300.woff"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-light-300.woff2"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\fonts\\font-awesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\120x120.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\120x120.jpg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\1280x857.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1280x857.jpg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\175x115.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\175x115.jpg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\200x200.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\200x200.jpg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\255x255.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\255x255.jpg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\300x300.jpg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\350x250.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\350x250.jpg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\400x168.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x168.jpg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\400x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x300.jpg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\509x343.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\509x343.jpg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\600x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\600x300.jpg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\640x426.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\640x426.jpg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\90x90.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\90x90.jpg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\ab-1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\ab-1.jpeg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\arrow-down.png",
+      "PackagePath": "staticwebassets\\assets\\img\\arrow-down.png"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg.png"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\ca.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ca.png"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\contact-us-map-pin.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\contact-us-map-pin.svg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\de.png",
+      "PackagePath": "staticwebassets\\assets\\img\\de.png"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\faq.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\faq.svg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\fr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\fr.png"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\jp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\jp.png"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\img\\mindset.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\mindset.svg"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\apps\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\contact.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\apps\\custom-mailbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\custom-mailbox.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\apps\\invoice.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\invoice.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\apps\\mailbox-chat.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\mailbox-chat.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\apps\\notes.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\notes.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\apps\\scrumboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\scrumboard.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\apps\\todoList.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\todoList.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\authentication\\form-1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\authentication\\form-1.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\authentication\\form-2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\authentication\\form-2.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\clipboard\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\clipboard\\clipboard.min.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\components\\custom-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\custom-carousel.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\components\\custom-countdown.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\custom-countdown.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\components\\custom-counter.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\custom-counter.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\components\\notification\\custom-snackbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\notification\\custom-snackbar.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\components\\session-timeout\\bootstrap-session-timeout.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\session-timeout\\bootstrap-session-timeout.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\components\\session-timeout\\custom-bootstrap_session_timeout.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\session-timeout\\custom-bootstrap_session_timeout.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\components\\ui-accordions.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\ui-accordions.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\dashboard\\dash_1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\dash_1.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\dashboard\\dash_2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\dash_2.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\elements\\custom-search.js",
+      "PackagePath": "staticwebassets\\assets\\js\\elements\\custom-search.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\elements\\popovers.js",
+      "PackagePath": "staticwebassets\\assets\\js\\elements\\popovers.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\elements\\tooltip.js",
+      "PackagePath": "staticwebassets\\assets\\js\\elements\\tooltip.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\forms\\bootstrap_validation\\bs_validation_script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\forms\\bootstrap_validation\\bs_validation_script.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\forms\\custom-clipboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\forms\\custom-clipboard.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\ie11fix\\fn.fix-padStart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ie11fix\\fn.fix-padStart.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\libs\\jquery-3.1.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\jquery-3.1.1.min.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\libs\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\jquery-ui.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\loader.js",
+      "PackagePath": "staticwebassets\\assets\\js\\loader.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\pages\\coming-soon\\coming-soon.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\coming-soon\\coming-soon.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\pages\\faq\\faq.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\faq\\faq.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\pages\\faq\\faq2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\faq\\faq2.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\pages\\helpdesk.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\helpdesk.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\scrollspyNav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollspyNav.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\users\\account-settings.js",
+      "PackagePath": "staticwebassets\\assets\\js\\users\\account-settings.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\assets\\js\\widgets\\modules-widgets.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\modules-widgets.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Authorize.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Authorize.props",
+      "PackagePath": "build\\Authorize.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Authorize.props",
+      "PackagePath": "buildMultiTargeting\\Authorize.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Authorize.props",
+      "PackagePath": "buildTransitive\\Authorize.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+﻿<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
@@ -7,11 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Blazored.LocalStorage" Version="4.4.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="7.0.8" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.1" Privateassets="all" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Presentaion\DTO\DTOs\DTOs.csproj" />
+    <ProjectReference Include="..\..\Presentaion\Infra\Authorize\Authorize.csproj" />
     <ProjectReference Include="..\Shared\EndPoint.Admin.Shared.csproj" />
   </ItemGroup>
 

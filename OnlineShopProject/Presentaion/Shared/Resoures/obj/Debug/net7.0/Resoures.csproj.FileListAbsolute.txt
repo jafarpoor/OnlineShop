@@ -1,0 +1,15 @@
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\bin\Debug\net7.0\Resoures.deps.json
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\bin\Debug\net7.0\Resoures.dll
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\bin\Debug\net7.0\Resoures.pdb
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\Resoures.csproj.AssemblyReference.cache
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\Resoures.DataDictionary.resources
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\Resoures.General.resources
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\Resoures.csproj.GenerateResource.cache
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\Resoures.GeneratedMSBuildEditorConfig.editorconfig
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\Resoures.AssemblyInfoInputs.cache
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\Resoures.AssemblyInfo.cs
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\Resoures.csproj.CoreCompileInputs.cache
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\Resoures.dll
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\refint\Resoures.dll
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\Resoures.pdb
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\ref\Resoures.dll
