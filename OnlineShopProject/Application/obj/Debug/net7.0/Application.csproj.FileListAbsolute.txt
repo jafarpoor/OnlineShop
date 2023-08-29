@@ -25,3 +25,7 @@ E:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\Application.dll
 E:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\refint\Application.dll
 E:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\Application.pdb
 E:\OnlineShop\OnlineShopProject\Application\obj\Debug\net7.0\ref\Application.dll
+E:\OnlineShop\OnlineShopProject\Application\bin\Debug\net7.0\Persistence.dll
+E:\OnlineShop\OnlineShopProject\Application\bin\Debug\net7.0\Persistence.pdb
+E:\OnlineShop\OnlineShopProject\Application\bin\Debug\net7.0\Resoures.dll
+E:\OnlineShop\OnlineShopProject\Application\bin\Debug\net7.0\Resoures.pdb

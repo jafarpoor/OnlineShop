@@ -823,7 +823,9 @@
       "Application/1.0.0": {
         "dependencies": {
           "Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "7.0.8"
+          "Microsoft.EntityFrameworkCore": "7.0.8",
+          "Persistence": "1.0.0",
+          "Resoures": "1.0.0"
         },
         "runtime": {
           "Application.dll": {}
@@ -831,6 +833,9 @@
       },
       "Authorize/1.0.0": {
         "dependencies": {
+          "Blazored.LocalStorage": "4.4.0",
+          "DTOs": "1.0.0",
+          "Microsoft.AspNetCore.Components.Authorization": "7.0.8",
           "Microsoft.AspNetCore.Components.Web": "7.0.1"
         },
         "runtime": {
@@ -870,7 +875,6 @@
       },
       "Persistence/1.0.0": {
         "dependencies": {
-          "Application": "1.0.0",
           "Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.8",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.8",

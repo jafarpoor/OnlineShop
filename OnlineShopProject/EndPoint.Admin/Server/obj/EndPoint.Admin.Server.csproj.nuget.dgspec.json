@@ -30,6 +30,12 @@
             "projectReferences": {
               "E:\\OnlineShop\\OnlineShopProject\\Domain\\Domain.csproj": {
                 "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Domain\\Domain.csproj"
+              },
+              "E:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj": {
+                "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Persistence\\Persistence.csproj"
+              },
+              "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Shared\\Resoures\\Resoures.csproj": {
+                "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Shared\\Resoures\\Resoures.csproj"
               }
             }
           }
@@ -406,9 +412,6 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
-                "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj"
-              },
               "E:\\OnlineShop\\OnlineShopProject\\Domain\\Domain.csproj": {
                 "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Domain\\Domain.csproj"
               }
@@ -552,7 +555,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\DTO\\DTOs\\DTOs.csproj": {
+                "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\DTO\\DTOs\\DTOs.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -565,6 +572,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
             "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",
               "version": "[7.0.1, )"

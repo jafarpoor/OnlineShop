@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/OnlineShop/OnlineShopProject/Presentaion/Infra/Authorize/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OnlineShop/OnlineShopProject/Presentaion/Infra/Authorize/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/OnlineShop/OnlineShopProject/Presentaion/Infra/Authorize/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

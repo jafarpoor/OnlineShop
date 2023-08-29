@@ -1,6 +1,4 @@
-﻿using Application.Interface;
-using Application.ViewModel;
-using Domain.Entity.Base;
+﻿using Domain.Entity.Base;
 using Microsoft.EntityFrameworkCore;
 
 namespace Persistence.Context

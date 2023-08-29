@@ -1,4 +1,5 @@
-using Application.Interface;
+using Application.Interface.Base;
+using Application.Repository.Base;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.ResponseCompression;
@@ -44,6 +45,9 @@ string? connection = builder.Configuration["ConnectionString:SqlServer"];
 builder.Services.AddDbContext<DataBaseContext>(option => option.UseSqlServer(connection));
 #endregion
 
+#region UnitWork
+builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
+#endregion
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

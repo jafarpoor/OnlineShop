@@ -19,9 +19,7 @@ E:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Persistence.deps.js
 E:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
 E:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Persistence.dll
 E:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Persistence.pdb
-E:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Application.dll
 E:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Domain.dll
-E:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Application.pdb
 E:\OnlineShop\OnlineShopProject\Persistence\bin\Debug\net7.0\Domain.pdb
 E:\OnlineShop\OnlineShopProject\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
 E:\OnlineShop\OnlineShopProject\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,4 +1,7 @@
-﻿using DTOs;
+﻿using Application.Interface.Base;
+using Application.ViewModel.User;
+using Domain.Entity.Base;
+using DTOs;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
@@ -13,11 +16,13 @@ namespace EndPoint.Admin.Server.Controllers
         private readonly UserManager<IdentityUser> _userManager;
         private readonly IConfiguration _configuration;
         private readonly IConfigurationSection _jwtSettings;
-        public AccountController(UserManager<IdentityUser> userManager, IConfiguration configuration)
+        private readonly IUnitOfWork _unitOfWork;
+        public AccountController(UserManager<IdentityUser> userManager, IConfiguration configuration , IUnitOfWork unitOfWork)
         {
             _userManager = userManager;
             _configuration = configuration;
             _jwtSettings = _configuration.GetSection("JwtSettings");
+            _unitOfWork = unitOfWork;
         }
 
         [HttpPost("Login")]
@@ -64,6 +69,20 @@ namespace EndPoint.Admin.Server.Controllers
                 signingCredentials: signingCredentials);
 
             return tokenOptions;
+        }
+
+        [HttpPost("Register")]
+        public async Task<IActionResult> Register([FromBody] RegisterUserViewModel model)
+        {
+            //Massage
+            User user = new User() { 
+                FristName = model.FristName ,
+                LastName = model.LastName ,
+                PhoneNumber = model.PhoneNumber ,
+                Email= model.Email ,
+            };
+            //_unitOfWork.RegisterUserRepository
+            return View();
         }
     }
 }

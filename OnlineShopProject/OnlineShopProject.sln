@@ -39,15 +39,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EndPoint.Admin.Shared", "En
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{49E610E7-AE4B-4469-9284-5203047929B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorize", "Presentaion\Infra\Authorize\Authorize.csproj", "{51075BC6-AB36-4AC6-BF5E-F8ED40488657}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Authorize", "Presentaion\Infra\Authorize\Authorize.csproj", "{51075BC6-AB36-4AC6-BF5E-F8ED40488657}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{6CB918C4-221E-4DC0-93F9-8396857C7FB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resoures", "Presentaion\Shared\Resoures\Resoures.csproj", "{4A51141C-CE74-4BE8-942E-474D44AFF7D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resoures", "Presentaion\Shared\Resoures\Resoures.csproj", "{4A51141C-CE74-4BE8-942E-474D44AFF7D2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DTO", "DTO", "{76AECFAA-90E5-429A-B002-5995E18A6E78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTOs", "Presentaion\DTO\DTOs\DTOs.csproj", "{FCAC69F7-98AC-40EF-BF28-D608F45AF845}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTOs", "Presentaion\DTO\DTOs\DTOs.csproj", "{FCAC69F7-98AC-40EF-BF28-D608F45AF845}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -509,6 +509,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Blazored.LocalStorage": "4.4.0",
+          "DTOs": "1.0.0",
+          "Microsoft.AspNetCore.Components.Authorization": "7.0.8",
           "Microsoft.AspNetCore.Components.Web": "7.0.1"
         },
         "compile": {
@@ -1054,6 +1057,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Blazored.LocalStorage": "4.4.0",
+          "DTOs": "1.0.0",
+          "Microsoft.AspNetCore.Components.Authorization": "7.0.8",
           "Microsoft.AspNetCore.Components.Web": "7.0.1"
         },
         "compile": {

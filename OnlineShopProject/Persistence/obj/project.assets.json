@@ -1133,20 +1133,6 @@
           }
         }
       },
-      "Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "7.0.8"
-        },
-        "compile": {
-          "bin/placeholder/Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Application.dll": {}
-        }
-      },
       "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -3477,11 +3463,6 @@
         "version.txt"
       ]
     },
-    "Application/1.0.0": {
-      "type": "project",
-      "path": "../Application/Application.csproj",
-      "msbuildProject": "../Application/Application.csproj"
-    },
     "Domain/1.0.0": {
       "type": "project",
       "path": "../Domain/Domain.csproj",
@@ -3490,7 +3471,6 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Application >= 1.0.0",
       "Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.8",
@@ -3526,9 +3506,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
-              "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj"
-            },
             "E:\\OnlineShop\\OnlineShopProject\\Domain\\Domain.csproj": {
               "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Domain\\Domain.csproj"
             }
