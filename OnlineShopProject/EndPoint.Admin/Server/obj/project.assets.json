@@ -1558,6 +1558,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Application": "1.0.0",
           "Authorize": "1.0.0",
           "Blazored.LocalStorage": "4.4.0",
           "DTOs": "1.0.0",

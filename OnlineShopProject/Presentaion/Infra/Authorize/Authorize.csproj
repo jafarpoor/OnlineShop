@@ -7,13 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="wwwroot\Services\AuthenticationService.cs" />
-    <Content Remove="wwwroot\Services\IAuthenticationService.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Include="wwwroot\Services\AuthenticationService.cs" />
-    <Compile Include="wwwroot\Services\IAuthenticationService.cs" />
+    <Content Remove="Services\AuthenticationService.cs" />
+    <Content Remove="Services\IAuthenticationService.cs" />
   </ItemGroup>
 
 

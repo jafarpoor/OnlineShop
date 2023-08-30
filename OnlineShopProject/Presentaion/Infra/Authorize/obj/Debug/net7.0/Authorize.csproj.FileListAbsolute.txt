@@ -2,6 +2,10 @@ E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\bin\Debug\net7.0\Aut
 E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\bin\Debug\net7.0\Authorize.deps.json
 E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\bin\Debug\net7.0\Authorize.dll
 E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\bin\Debug\net7.0\Authorize.pdb
+E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\bin\Debug\net7.0\DTOs.dll
+E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\bin\Debug\net7.0\Resoures.dll
+E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\bin\Debug\net7.0\DTOs.pdb
+E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\bin\Debug\net7.0\Resoures.pdb
 E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\obj\Debug\net7.0\Authorize.csproj.AssemblyReference.cache
 E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\obj\Debug\net7.0\Authorize.GeneratedMSBuildEditorConfig.editorconfig
 E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\obj\Debug\net7.0\Authorize.AssemblyInfoInputs.cache
@@ -15,12 +19,8 @@ E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\obj\Debug\net7.0\sta
 E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\obj\Debug\net7.0\staticwebassets.build.json
 E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\obj\Debug\net7.0\staticwebassets.development.json
 E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\obj\Debug\net7.0\scopedcss\bundle\Authorize.styles.css
+E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\obj\Debug\net7.0\Authorize.csproj.CopyComplete
 E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\obj\Debug\net7.0\Authorize.dll
 E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\obj\Debug\net7.0\refint\Authorize.dll
 E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\obj\Debug\net7.0\Authorize.pdb
 E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\obj\Debug\net7.0\ref\Authorize.dll
-E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\bin\Debug\net7.0\DTOs.dll
-E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\bin\Debug\net7.0\Resoures.dll
-E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\bin\Debug\net7.0\DTOs.pdb
-E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\bin\Debug\net7.0\Resoures.pdb
-E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Authorize\obj\Debug\net7.0\Authorize.csproj.CopyComplete

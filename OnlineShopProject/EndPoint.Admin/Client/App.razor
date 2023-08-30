@@ -1,4 +1,5 @@
-﻿<Router AppAssembly="@typeof(App).Assembly">
+﻿@using Authorize.Pages;
+<Router AppAssembly="@typeof(App).Assembly" AdditionalAssemblies="new[] { typeof(Register).Assembly }">
     <Found Context="routeData">
         <RouteView RouteData="@routeData" />
         <FocusOnNavigate RouteData="@routeData" Selector="h1" />

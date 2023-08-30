@@ -1,5 +1,9 @@
 ﻿@page "/login"
 
+
+@inject AuthenticationService AuthenticationService;
+@inject NavigationManager NavigationManager;
+
 @if (ShowAuthError)
 {
     <div class="alert alert-danger" role="alert">

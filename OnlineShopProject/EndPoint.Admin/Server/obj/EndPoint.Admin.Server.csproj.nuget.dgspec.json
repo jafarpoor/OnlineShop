@@ -154,6 +154,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
+                "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj"
+              },
               "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj": {
                 "projectPath": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Shared\\EndPoint.Admin.Shared.csproj"
               },

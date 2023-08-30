@@ -14,9 +14,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Application\Application.csproj" />
     <ProjectReference Include="..\..\Presentaion\DTO\DTOs\DTOs.csproj" />
     <ProjectReference Include="..\..\Presentaion\Infra\Authorize\Authorize.csproj" />
     <ProjectReference Include="..\Shared\EndPoint.Admin.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\ThemHtml\" />
   </ItemGroup>
 
 </Project>

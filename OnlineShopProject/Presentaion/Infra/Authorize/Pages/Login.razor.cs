@@ -6,16 +6,10 @@ namespace Authorize.Pages
 {
     public partial class Login
     {
-        private UserForAuthenticationDto _userForAuthentication = new UserForAuthenticationDto();
-        [Inject]
-        public IAuthenticationService AuthenticationService { get; set; }
-
-        [Inject]
-        public NavigationManager NavigationManager { get; set; }
-
+        private UserForAuthenticationDto _userForAuthentication { get; set; } = new();
         public bool ShowAuthError { get; set; }
 
-        public string Error { get; set; }
+        public string? Error { get; set; }
 
         public async Task ExecuteLogin()
         {

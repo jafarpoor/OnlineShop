@@ -4,13 +4,13 @@ using Microsoft.AspNetCore.Components.Authorization;
 using System.Net.Http.Headers;
 using System.Security.Claims;
 
-public class AuthStateProvider : AuthenticationStateProvider
+public class AuthorizationServices : AuthenticationStateProvider
 {
     private readonly HttpClient _httpClient;
     private readonly ILocalStorageService _localStorage;
     private readonly AuthenticationState _anonymous;
 
-    public AuthStateProvider(HttpClient httpClient, ILocalStorageService localStorage)
+    public AuthorizationServices(HttpClient httpClient, ILocalStorageService localStorage)
     {
         _httpClient = httpClient;
         _localStorage = localStorage;

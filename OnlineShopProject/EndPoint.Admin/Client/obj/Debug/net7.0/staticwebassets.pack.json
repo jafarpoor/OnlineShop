@@ -13,36 +13,416 @@
       "PackagePath": "staticwebassets\\EndPoint.Admin.Client.styles.css"
     },
     {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\apps_calendar.html",
-      "PackagePath": "staticwebassets\\apps_calendar.html"
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\apps_calendar.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\apps_calendar.html"
     },
     {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\apps_chat.html",
-      "PackagePath": "staticwebassets\\apps_chat.html"
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\apps_chat.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\apps_chat.html"
     },
     {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\apps_contacts.html",
-      "PackagePath": "staticwebassets\\apps_contacts.html"
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\apps_contacts.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\apps_contacts.html"
     },
     {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\apps_invoice.html",
-      "PackagePath": "staticwebassets\\apps_invoice.html"
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\apps_invoice.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\apps_invoice.html"
     },
     {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\apps_mailbox.html",
-      "PackagePath": "staticwebassets\\apps_mailbox.html"
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\apps_mailbox.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\apps_mailbox.html"
     },
     {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\apps_notes.html",
-      "PackagePath": "staticwebassets\\apps_notes.html"
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\apps_notes.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\apps_notes.html"
     },
     {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\apps_scrumboard.html",
-      "PackagePath": "staticwebassets\\apps_scrumboard.html"
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\apps_scrumboard.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\apps_scrumboard.html"
     },
     {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\apps_todoList.html",
-      "PackagePath": "staticwebassets\\apps_todoList.html"
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\apps_todoList.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\apps_todoList.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\auth_lockscreen.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\auth_lockscreen.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\auth_lockscreen_boxed.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\auth_lockscreen_boxed.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\auth_login.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\auth_login.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\auth_login_boxed.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\auth_login_boxed.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\auth_pass_recovery.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\auth_pass_recovery.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\auth_pass_recovery_boxed.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\auth_pass_recovery_boxed.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\auth_register.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\auth_register.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\auth_register_boxed.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\auth_register_boxed.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\charts_apex.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\charts_apex.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_accordion.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_accordion.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_blockui.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_blockui.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_bootstrap_carousel.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_bootstrap_carousel.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_cards.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_cards.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_countdown.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_countdown.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_counter.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_counter.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_lightbox.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_lightbox.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_list_group.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_list_group.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_media_object.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_media_object.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_modal.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_modal.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_pricing_table.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_pricing_table.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_session_timeout.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_session_timeout.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_snackbar.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_snackbar.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_sweetalert.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_sweetalert.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_tabs.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_tabs.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\component_timeline.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\component_timeline.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\dragndrop_dragula.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\dragndrop_dragula.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_alerts.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_alerts.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_avatar.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_avatar.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_badges.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_badges.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_breadcrumbs.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_breadcrumbs.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_buttons.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_buttons.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_buttons_group.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_buttons_group.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_color_library.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_color_library.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_dropdown.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_dropdown.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_infobox.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_infobox.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_jumbotron.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_jumbotron.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_loader.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_loader.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_pagination.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_pagination.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_popovers.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_popovers.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_progress_bar.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_progress_bar.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_search.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_search.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_tooltips.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_tooltips.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_treeview.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_treeview.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\element_typography.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\element_typography.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\favicon.png",
+      "PackagePath": "staticwebassets\\ThemHtml\\favicon.png"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\fonticons.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\fonticons.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_bootstrap_basic.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_bootstrap_basic.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_bootstrap_select.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_bootstrap_select.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_bootstrap_touchspin.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_bootstrap_touchspin.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_checkbox_radio.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_checkbox_radio.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_clipboard.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_clipboard.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_date_range_picker.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_date_range_picker.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_fileupload.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_fileupload.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_input_group_basic.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_input_group_basic.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_input_mask.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_input_mask.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_layouts.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_layouts.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_markdown.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_markdown.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_maxlength.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_maxlength.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_quill.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_quill.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_select2.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_select2.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_switches.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_switches.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_typeahead.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_typeahead.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_validation.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_validation.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\form_wizard.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\form_wizard.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\icon-192.png",
+      "PackagePath": "staticwebassets\\ThemHtml\\icon-192.png"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\index2.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\index2.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\map_jvector.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\map_jvector.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\pages_coming_soon.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\pages_coming_soon.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\pages_contact_us.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\pages_contact_us.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\pages_error404.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\pages_error404.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\pages_error500.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\pages_error500.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\pages_error503.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\pages_error503.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\pages_faq.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\pages_faq.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\pages_faq2.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\pages_faq2.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\pages_helpdesk.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\pages_helpdesk.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\pages_maintenence.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\pages_maintenence.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\pages_privacy.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\pages_privacy.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\starter_kit_blank_page.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\starter_kit_blank_page.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\starter_kit_boxed.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\starter_kit_boxed.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\starter_kit_collapsible_menu.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\starter_kit_collapsible_menu.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\table_basic.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\table_basic.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\table_dt_alternative_pagination.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\table_dt_alternative_pagination.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\table_dt_basic-dark.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\table_dt_basic-dark.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\table_dt_basic.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\table_dt_basic.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\table_dt_custom.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\table_dt_custom.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\table_dt_html5.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\table_dt_html5.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\table_dt_live_dom_ordering.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\table_dt_live_dom_ordering.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\table_dt_miscellaneous.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\table_dt_miscellaneous.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\table_dt_multi-column_ordering.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\table_dt_multi-column_ordering.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\table_dt_multiple_tables.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\table_dt_multiple_tables.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\table_dt_ordering_sorting.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\table_dt_ordering_sorting.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\table_dt_range_search.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\table_dt_range_search.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\user_account_setting.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\user_account_setting.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\user_profile.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\user_profile.html"
+    },
+    {
+      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\ThemHtml\\widgets.html",
+      "PackagePath": "staticwebassets\\ThemHtml\\widgets.html"
     },
     {
       "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\assets\\css\\apps\\contacts.css",
@@ -697,38 +1077,6 @@
       "PackagePath": "staticwebassets\\assets\\js\\widgets\\modules-widgets.js"
     },
     {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\auth_lockscreen.html",
-      "PackagePath": "staticwebassets\\auth_lockscreen.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\auth_lockscreen_boxed.html",
-      "PackagePath": "staticwebassets\\auth_lockscreen_boxed.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\auth_login.html",
-      "PackagePath": "staticwebassets\\auth_login.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\auth_login_boxed.html",
-      "PackagePath": "staticwebassets\\auth_login_boxed.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\auth_pass_recovery.html",
-      "PackagePath": "staticwebassets\\auth_pass_recovery.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\auth_pass_recovery_boxed.html",
-      "PackagePath": "staticwebassets\\auth_pass_recovery_boxed.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\auth_register.html",
-      "PackagePath": "staticwebassets\\auth_register.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\auth_register_boxed.html",
-      "PackagePath": "staticwebassets\\auth_register_boxed.html"
-    },
-    {
       "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
     },
@@ -747,74 +1095,6 @@
     {
       "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\bootstrap\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\popper.min.js"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\charts_apex.html",
-      "PackagePath": "staticwebassets\\charts_apex.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_accordion.html",
-      "PackagePath": "staticwebassets\\component_accordion.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_blockui.html",
-      "PackagePath": "staticwebassets\\component_blockui.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_bootstrap_carousel.html",
-      "PackagePath": "staticwebassets\\component_bootstrap_carousel.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_cards.html",
-      "PackagePath": "staticwebassets\\component_cards.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_countdown.html",
-      "PackagePath": "staticwebassets\\component_countdown.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_counter.html",
-      "PackagePath": "staticwebassets\\component_counter.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_lightbox.html",
-      "PackagePath": "staticwebassets\\component_lightbox.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_list_group.html",
-      "PackagePath": "staticwebassets\\component_list_group.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_media_object.html",
-      "PackagePath": "staticwebassets\\component_media_object.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_modal.html",
-      "PackagePath": "staticwebassets\\component_modal.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_pricing_table.html",
-      "PackagePath": "staticwebassets\\component_pricing_table.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_session_timeout.html",
-      "PackagePath": "staticwebassets\\component_session_timeout.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_snackbar.html",
-      "PackagePath": "staticwebassets\\component_snackbar.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_sweetalert.html",
-      "PackagePath": "staticwebassets\\component_sweetalert.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_tabs.html",
-      "PackagePath": "staticwebassets\\component_tabs.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\component_timeline.html",
-      "PackagePath": "staticwebassets\\component_timeline.html"
     },
     {
       "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\css\\app.css",
@@ -873,172 +1153,8 @@
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\dragndrop_dragula.html",
-      "PackagePath": "staticwebassets\\dragndrop_dragula.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_alerts.html",
-      "PackagePath": "staticwebassets\\element_alerts.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_avatar.html",
-      "PackagePath": "staticwebassets\\element_avatar.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_badges.html",
-      "PackagePath": "staticwebassets\\element_badges.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_breadcrumbs.html",
-      "PackagePath": "staticwebassets\\element_breadcrumbs.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_buttons.html",
-      "PackagePath": "staticwebassets\\element_buttons.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_buttons_group.html",
-      "PackagePath": "staticwebassets\\element_buttons_group.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_color_library.html",
-      "PackagePath": "staticwebassets\\element_color_library.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_dropdown.html",
-      "PackagePath": "staticwebassets\\element_dropdown.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_infobox.html",
-      "PackagePath": "staticwebassets\\element_infobox.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_jumbotron.html",
-      "PackagePath": "staticwebassets\\element_jumbotron.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_loader.html",
-      "PackagePath": "staticwebassets\\element_loader.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_pagination.html",
-      "PackagePath": "staticwebassets\\element_pagination.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_popovers.html",
-      "PackagePath": "staticwebassets\\element_popovers.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_progress_bar.html",
-      "PackagePath": "staticwebassets\\element_progress_bar.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_search.html",
-      "PackagePath": "staticwebassets\\element_search.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_tooltips.html",
-      "PackagePath": "staticwebassets\\element_tooltips.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_treeview.html",
-      "PackagePath": "staticwebassets\\element_treeview.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\element_typography.html",
-      "PackagePath": "staticwebassets\\element_typography.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\fonticons.html",
-      "PackagePath": "staticwebassets\\fonticons.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_bootstrap_basic.html",
-      "PackagePath": "staticwebassets\\form_bootstrap_basic.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_bootstrap_select.html",
-      "PackagePath": "staticwebassets\\form_bootstrap_select.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_bootstrap_touchspin.html",
-      "PackagePath": "staticwebassets\\form_bootstrap_touchspin.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_checkbox_radio.html",
-      "PackagePath": "staticwebassets\\form_checkbox_radio.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_clipboard.html",
-      "PackagePath": "staticwebassets\\form_clipboard.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_date_range_picker.html",
-      "PackagePath": "staticwebassets\\form_date_range_picker.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_fileupload.html",
-      "PackagePath": "staticwebassets\\form_fileupload.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_input_group_basic.html",
-      "PackagePath": "staticwebassets\\form_input_group_basic.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_input_mask.html",
-      "PackagePath": "staticwebassets\\form_input_mask.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_layouts.html",
-      "PackagePath": "staticwebassets\\form_layouts.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_markdown.html",
-      "PackagePath": "staticwebassets\\form_markdown.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_maxlength.html",
-      "PackagePath": "staticwebassets\\form_maxlength.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_quill.html",
-      "PackagePath": "staticwebassets\\form_quill.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_select2.html",
-      "PackagePath": "staticwebassets\\form_select2.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_switches.html",
-      "PackagePath": "staticwebassets\\form_switches.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_typeahead.html",
-      "PackagePath": "staticwebassets\\form_typeahead.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_validation.html",
-      "PackagePath": "staticwebassets\\form_validation.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\form_wizard.html",
-      "PackagePath": "staticwebassets\\form_wizard.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\icon-192.png",
-      "PackagePath": "staticwebassets\\icon-192.png"
-    },
-    {
       "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\index2.html",
-      "PackagePath": "staticwebassets\\index2.html"
     },
     {
       "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
@@ -1583,50 +1699,6 @@
     {
       "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\map_jvector.html",
-      "PackagePath": "staticwebassets\\map_jvector.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\pages_coming_soon.html",
-      "PackagePath": "staticwebassets\\pages_coming_soon.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\pages_contact_us.html",
-      "PackagePath": "staticwebassets\\pages_contact_us.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\pages_error404.html",
-      "PackagePath": "staticwebassets\\pages_error404.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\pages_error500.html",
-      "PackagePath": "staticwebassets\\pages_error500.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\pages_error503.html",
-      "PackagePath": "staticwebassets\\pages_error503.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\pages_faq.html",
-      "PackagePath": "staticwebassets\\pages_faq.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\pages_faq2.html",
-      "PackagePath": "staticwebassets\\pages_faq2.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\pages_helpdesk.html",
-      "PackagePath": "staticwebassets\\pages_helpdesk.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\pages_maintenence.html",
-      "PackagePath": "staticwebassets\\pages_maintenence.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\pages_privacy.html",
-      "PackagePath": "staticwebassets\\pages_privacy.html"
     },
     {
       "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\plugins\\animate\\animate.css",
@@ -4275,78 +4347,6 @@
     {
       "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\sass\\plugins\\tagInput\\tags-input.scss",
       "PackagePath": "staticwebassets\\sass\\plugins\\tagInput\\tags-input.scss"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\starter_kit_blank_page.html",
-      "PackagePath": "staticwebassets\\starter_kit_blank_page.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\starter_kit_boxed.html",
-      "PackagePath": "staticwebassets\\starter_kit_boxed.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\starter_kit_collapsible_menu.html",
-      "PackagePath": "staticwebassets\\starter_kit_collapsible_menu.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\table_basic.html",
-      "PackagePath": "staticwebassets\\table_basic.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\table_dt_alternative_pagination.html",
-      "PackagePath": "staticwebassets\\table_dt_alternative_pagination.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\table_dt_basic-dark.html",
-      "PackagePath": "staticwebassets\\table_dt_basic-dark.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\table_dt_basic.html",
-      "PackagePath": "staticwebassets\\table_dt_basic.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\table_dt_custom.html",
-      "PackagePath": "staticwebassets\\table_dt_custom.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\table_dt_html5.html",
-      "PackagePath": "staticwebassets\\table_dt_html5.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\table_dt_live_dom_ordering.html",
-      "PackagePath": "staticwebassets\\table_dt_live_dom_ordering.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\table_dt_miscellaneous.html",
-      "PackagePath": "staticwebassets\\table_dt_miscellaneous.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\table_dt_multi-column_ordering.html",
-      "PackagePath": "staticwebassets\\table_dt_multi-column_ordering.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\table_dt_multiple_tables.html",
-      "PackagePath": "staticwebassets\\table_dt_multiple_tables.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\table_dt_ordering_sorting.html",
-      "PackagePath": "staticwebassets\\table_dt_ordering_sorting.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\table_dt_range_search.html",
-      "PackagePath": "staticwebassets\\table_dt_range_search.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\user_account_setting.html",
-      "PackagePath": "staticwebassets\\user_account_setting.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\user_profile.html",
-      "PackagePath": "staticwebassets\\user_profile.html"
-    },
-    {
-      "Id": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\wwwroot\\widgets.html",
-      "PackagePath": "staticwebassets\\widgets.html"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EndPoint.Admin.Client.Microsoft.AspNetCore.StaticWebAssets.props",

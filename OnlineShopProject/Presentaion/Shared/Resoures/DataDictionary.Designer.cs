@@ -70,6 +70,24 @@ namespace Resoures {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to نام.
+        /// </summary>
+        public static string FristName {
+            get {
+                return ResourceManager.GetString("FristName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to نام خانوادگی.
+        /// </summary>
+        public static string LastName {
+            get {
+                return ResourceManager.GetString("LastName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to پسورد.
         /// </summary>
         public static string Password {
@@ -79,11 +97,29 @@ namespace Resoures {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to شماره تلفن.
+        /// </summary>
+        public static string PhoneNumber {
+            get {
+                return ResourceManager.GetString("PhoneNumber", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to گروه محصول.
         /// </summary>
         public static string ProductTypeName {
             get {
                 return ResourceManager.GetString("ProductTypeName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to نام کاربری.
+        /// </summary>
+        public static string UserName {
+            get {
+                return ResourceManager.GetString("UserName", resourceCulture);
             }
         }
     }
