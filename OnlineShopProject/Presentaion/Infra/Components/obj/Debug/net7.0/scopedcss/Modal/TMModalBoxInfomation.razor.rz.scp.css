@@ -1,0 +1,22 @@
+.infomation-icon .bx-tada[b-rpnzckqc5d] {
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+}
+
+.infomation-icon .bx-lg[b-rpnzckqc5d] {
+    font-size: 6rem !important;
+}
+
+.modal-title[b-rpnzckqc5d] {
+    font-size: 1.4rem;
+}
+
+.modal-content[b-rpnzckqc5d] {
+    border: 0;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.15);
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.15);
+}
+.modal-information[b-rpnzckqc5d]{
+    z-index:1061;
+}

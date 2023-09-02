@@ -1,0 +1,56 @@
+﻿
+.question-icon .bx-tada {
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+}
+
+.modal-content {
+    border: 0;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.15);
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.15);
+}
+.tm-btn .inner-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.5s;
+}
+.btn-light {
+    border-radius:4px;
+    color: var(--tm-theme-color-on-bl-background);
+    background-color: var(--tm-theme-color-background);
+    border-color: var(--tm-theme-color-surface-variant);
+    box-shadow: 2px -1px 8px 0px rgba(0,0,0,0.08);
+    -webkit-box-shadow: 2px -1px 8px 0px rgba(0,0,0,0.08);
+    -moz-box-shadow: 2px -1px 8px 0px rgba(0,0,0,0.08);
+}
+.tm-btn.btn-light:hover{
+    background-color: var(--tm-theme-color-secondary-container);
+}
+.tm-btn .bx-x-circle {
+    color: var(--bs-warning);
+}
+.tm-btn .bx-minus-circle {
+    color: var(--bs-red);
+}
+
+.tm-btn:hover .bx-tada-hover{
+    -webkit-animation: tada 1.5s ease infinite;
+    animation: tada 1.5s ease infinite;
+}
+.modal-question{
+    z-index:1061;
+}
+    .modal-question .bx-border-circle {
+        border-color: var(--tm-theme-color-on-background);
+    }
+    .modal-question .bxs-bell-minus:before {
+        color: var(--tm-theme-color-on-background);
+    }
+    .modal-question .modal-title {
+        color: var(--tm-theme-color-on-bl-background);
+    }
+.modal-content {
+   border: 1px solid var(--tm-theme-color-bcolor-5);
+}

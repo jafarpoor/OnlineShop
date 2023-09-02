@@ -228,27 +228,29 @@
       "mscorlib.dll": "sha256-UH9jptJH1wZ3XMBPuMMAEaUKpfRxc5AgXkLdAFAvNVE=",
       "netstandard.dll": "sha256-+jUzj0FB0YcoBUeSkSNEjhVDTG08qbZ2twfCBMbzT+Q=",
       "System.Private.CoreLib.dll": "sha256-l+\/quNqfNCSUDSMJcp0+IxlSdOdnAtwVVWMXmYGHMpg=",
-      "Application.dll": "sha256-hAhhwAVLQ\/7ysnIH785Nq2+\/xEloab2VPW9ifpV6BKY=",
-      "Authorize.dll": "sha256-vAeeu\/GzxLuVWE0HsmccagsVWsdq1QR2bFJJYgGq1Uk=",
+      "Application.dll": "sha256-jVL7LIWmR0gksN2bdYtyI9ZLpDngIeeIz9LQmVNx2hU=",
+      "Authorize.dll": "sha256-TGwB7S16r3pXW2PJX4HLESUtgP1DDmVGTUE9mIlkttQ=",
+      "Components.dll": "sha256-eCSJrs9q801WTnCzaU\/PLPTzwo5tnXoptKcp7eT5n7w=",
       "Domain.dll": "sha256-2UJnPf4LMrcXz\/VNjrl9pmOQjSD3RUdTkfWmAT+Lj64=",
       "DTOs.dll": "sha256-\/nh\/Da7kaANYJ\/lb1YqcwErc0KExz0GoPL52v3jxkx8=",
       "EndPoint.Admin.Shared.dll": "sha256-8a9MB6PUjLV8iz+doOTqEd3kob4BZOVsW90uVFdvACk=",
       "Persistence.dll": "sha256-kypz\/IjDBhi7Qcvr6HmOnVzfaosyJGn+DK2orH9+7MY=",
       "Resoures.dll": "sha256-k\/WV\/5LDYEBXmiZ\/2t7\/rhhmvY+Whgj9k+1Ndx9XOqA=",
-      "EndPoint.Admin.Client.dll": "sha256-bjTlLfxQKhr7YQ\/l9VVVFwxgMOCI\/+rv5qR7vmUrMVU="
+      "EndPoint.Admin.Client.dll": "sha256-1AU0XgGD6rng9NMIePp1QOTh1Jzn3m5dd8JbUypBvhY="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Application.pdb": "sha256-xYUK+wFqvADCxUA1uwFcqo0rfwbWHLLaPhIC5ifA2Lw=",
+      "Application.pdb": "sha256-nf7Trgtcgf5Jm2Vycjd23YZ9\/RBXnODWdh1OybwUJ2w=",
       "DTOs.pdb": "sha256-MPrVm7uoVI7igMK\/ImXH6d4Hg52B2rEZ5hiFEb8Rk\/w=",
-      "Authorize.pdb": "sha256-qwM\/jtrbwZyMgFsJrnczDag7fjNk11XNqS7NvIBmk3Y=",
+      "Authorize.pdb": "sha256-TKmLs6qkLAfuON4G6umvXzJyWzs7989ph979rHmcCTg=",
       "EndPoint.Admin.Shared.pdb": "sha256-m4jZ\/h09dPLVZifjhABxZT4HmcB2H4e5vra2KynA+I4=",
+      "Components.pdb": "sha256-J0lWPLhHSHsegmvfwUEOSw70OxiL56CcMxFGPDj3eBA=",
       "Domain.pdb": "sha256-\/sJLDF+imkFI7DbvrGkLTDGOJN7kOWhPT84rQs4lry8=",
       "Persistence.pdb": "sha256-AnY05SsihNQ0na1kW6rsWMBXvmGORCCYMDmlW+8CmVQ=",
       "Resoures.pdb": "sha256-AVtsWlYJkP9MR1Qb9lIfSxIKOGpoOQgazO77ablJ6lY=",
-      "EndPoint.Admin.Client.pdb": "sha256-T6SsO+hiO8+fOkyunqXz1NEmMFbQEAOzt5JvubUjgUE="
+      "EndPoint.Admin.Client.pdb": "sha256-6HojxueTTqBPCGrSZLTKDVx\/O6InXrh1zVCuDyr4XUc="
     },
     "runtime": {
       "dotnet.7.0.1.h6bkv5fxiq.js": "sha256-jjax3FMRXzFAziWowdtJf6vipP2xXAaA5gD6VBYB6Y0=",

@@ -1,5 +1,6 @@
 ﻿using Application.Interface.Base;
-using Application.ViewModel.User;
+using Application.ViewModel;
+using Application.ViewModel.Users;
 using Domain.Entity.Base;
 using DTOs;
 using Microsoft.AspNetCore.Identity;
@@ -72,7 +73,7 @@ namespace EndPoint.Admin.Server.Controllers
         }
 
         [HttpPost("Register")]
-        public async Task<IActionResult> Register([FromBody] RegisterUserViewModel model)
+        public ActionResult Register([FromBody] RegisterUserViewModel model)
         {
             //Massage
             User user = new User() { 
@@ -81,8 +82,9 @@ namespace EndPoint.Admin.Server.Controllers
                 PhoneNumber = model.PhoneNumber ,
                 Email= model.Email ,
             };
-            //_unitOfWork.RegisterUserRepository
-            return View();
+            _unitOfWork.RegisterUserRepository.Insert(user);
+            _unitOfWork.Save();
+            return Json(new BaseDto { IsSuccess = true , Message="" });
         }
     }
 }

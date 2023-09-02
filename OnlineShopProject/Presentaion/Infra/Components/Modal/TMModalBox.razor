@@ -1,0 +1,59 @@
+﻿@if (!DisposeModal)
+{
+    <div class="modal modal-def @ModalClass @(FadeModalAnimation?"fade":"")" tabindex="-1" aria-labelledby="exampleModalLabel" style="display:@ModalDisplay" aria-hidden="true">
+        <div class="modal-dialog @(DisableCentered?"modal-dialog-centered":"") @ModalSizeClass @FullScreenClass">
+            <div class="modal-content shadow">
+                @if (!HideHeader)
+                {
+                    <div class="modal-header @HeaderCssClass">
+                      
+                        @if (!HideHeaderTitle)
+                        {
+                            <h2 class="modal-title fs-5" style="font-size:@(TitleFontSize)px"> @HeaderTitle</h2>
+                        }
+                        @if (HeaderHtmlContent != null)
+                        {
+                            @HeaderHtmlContent
+                        }
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" @onclick="() => Close()"></button>
+                    </div>
+                }
+                <div class="modal-body">
+                    @if (BodyHtmlContent != null)
+                    {
+                        @BodyHtmlContent
+                    }
+                </div>
+                @if (!HideFooter)
+                {
+                    <div class="modal-footer justify-content-start">
+                        @if (!HideConfirmButton)
+                        {
+                            <button type="button" @onclick="Confirm" class="btn @ConfirmButtonCssClass d-flex">
+                                <span class="@ConfirmButtonIcon"></span>
+                                <span>@ConfirmedButtonName</span>
+                            </button>
+                        }
+                            @if (!HideCanselButton)
+                            {
+                                <button type="button" class="btn @CancelButtonCssClass d-flex" @onclick="() => Close()">
+                                    <span class="@CancelButtonIcon"></span>
+                                    <span>@CancelButtonName</span>
+                                </button>
+
+                            }
+                            
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+}
+
+@if (Backdrop)
+{
+    if (!DisableBackdrop)
+    {
+        <div class="modal-backdrop fade show"></div>
+    }
+}

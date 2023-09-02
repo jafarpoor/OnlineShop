@@ -1519,7 +1519,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Application": "1.0.0",
           "Blazored.LocalStorage": "4.4.0",
+          "Components": "1.0.0",
           "DTOs": "1.0.0",
           "Microsoft.AspNetCore.Components.Authorization": "7.0.8",
           "Microsoft.AspNetCore.Components.Web": "7.0.1"
@@ -1529,6 +1531,19 @@
         },
         "runtime": {
           "bin/placeholder/Authorize.dll": {}
+        }
+      },
+      "Components/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "7.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Components.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Components.dll": {}
         }
       },
       "Domain/1.0.0": {
@@ -4371,6 +4386,11 @@
       "type": "project",
       "path": "../../Presentaion/Infra/Authorize/Authorize.csproj",
       "msbuildProject": "../../Presentaion/Infra/Authorize/Authorize.csproj"
+    },
+    "Components/1.0.0": {
+      "type": "project",
+      "path": "../../Presentaion/Infra/Components/Components.csproj",
+      "msbuildProject": "../../Presentaion/Infra/Components/Components.csproj"
     },
     "Domain/1.0.0": {
       "type": "project",

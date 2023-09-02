@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RJViCw68d7vF6IAzCxg4oNNqXU8FVeOFw34/jiw/3HI=",
+  "Hash": "wWhE0KXQSqS4a7EN/KksrVpIbIhuCf0DhutzoxfRc7g=",
   "Source": "EndPoint.Admin.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,17 @@
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
       "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    },
+    {
+      "Identity": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\Components.csproj",
+      "Version": 2,
+      "Source": "Components",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],
   "DiscoveryPatterns": [
@@ -24,6 +35,13 @@
       "Source": "Authorize",
       "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\",
       "BasePath": "_content/Authorize",
+      "Pattern": "**"
+    },
+    {
+      "Name": "Components\\wwwroot",
+      "Source": "Components",
+      "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\wwwroot\\",
+      "BasePath": "_content/Components",
       "Pattern": "**"
     },
     {
@@ -187,6 +205,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\jafarpoor-f\\.nuget\\packages\\blazored.localstorage\\4.4.0\\lib\\net7.0\\Blazored.LocalStorage.dll"
+    },
+    {
+      "Identity": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Components.dll",
+      "SourceId": "EndPoint.Admin.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Components.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\bin\\Debug\\net7.0\\Components.dll"
+    },
+    {
+      "Identity": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Components.pdb",
+      "SourceId": "EndPoint.Admin.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Components.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\bin\\Debug\\net7.0\\Components.pdb"
     },
     {
       "Identity": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Domain.dll",
@@ -4269,6 +4321,23 @@
       "OriginalItemSpec": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.dll"
     },
     {
+      "Identity": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\obj\\Debug\\net7.0\\build-gz\\+94WcDf5.gz",
+      "SourceId": "EndPoint.Admin.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Components.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Components.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Components.pdb"
+    },
+    {
       "Identity": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\obj\\Debug\\net7.0\\build-gz\\+cC4cjt5.gz",
       "SourceId": "EndPoint.Admin.Client",
       "SourceType": "Computed",
@@ -4794,6 +4863,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Threading.Tasks.Extensions.dll"
+    },
+    {
+      "Identity": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\obj\\Debug\\net7.0\\build-gz\\4IEQZJiC.gz",
+      "SourceId": "EndPoint.Admin.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Components.dll"
     },
     {
       "Identity": "E:\\OnlineShop\\OnlineShopProject\\EndPoint.Admin\\Client\\obj\\Debug\\net7.0\\build-gz\\4N1wWNB+.gz",
@@ -29740,6 +29826,57 @@
       "SourceType": "Project",
       "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\",
       "BasePath": "_content/Authorize",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    },
+    {
+      "Identity": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Components.bundle.scp.css",
+      "SourceId": "Components",
+      "SourceType": "Project",
+      "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Components",
+      "RelativePath": "Components.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Components.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\wwwroot\\background.png",
+      "SourceId": "Components",
+      "SourceType": "Project",
+      "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\wwwroot\\",
+      "BasePath": "_content/Components",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "Components",
+      "SourceType": "Project",
+      "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\wwwroot\\",
+      "BasePath": "_content/Components",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",
       "AssetMode": "All",

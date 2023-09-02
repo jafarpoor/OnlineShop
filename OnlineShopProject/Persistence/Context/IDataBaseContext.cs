@@ -1,4 +1,5 @@
-﻿using Domain.Entity.Base;
+﻿using Domain.Entity;
+using Domain.Entity.Base;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using System.Diagnostics.CodeAnalysis;
@@ -8,6 +9,7 @@ namespace Persistence.Context;
 public interface IDataBaseContext : IDisposable
 {
     DbSet<User> Users { get; set; }
+    DbSet<ProductType> ProductTypes { get; set; }
     int SaveChanges(bool acceptAllChangesOnSuccess);
     int SaveChanges();
     Task<int> SaveChangesAsync(bool acceptAllChangesOnSuccess, CancellationToken cancellationToken = default);

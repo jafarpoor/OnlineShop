@@ -1,0 +1,68 @@
+﻿@if (!DisposeModal)
+{
+    <div class="modal modal-question @ModalAnimationClass @(FadeModalAnimation?"fade":"")" tabindex="-1" aria-labelledby="exampleModalLabel" style="display:@ModalDisplay" aria-hidden="true">
+        <div class="modal-dialog @(DisableCentered?"modal-dialog-centered":"")">
+            <div class="modal-content">
+                <div class="modal-body py-5 text-center">
+                    @if (!HideIcon)
+                    {
+                        <div class="question-icon">
+                            <i class='bx @Icon bx-border-circle bx-lg bx-tada text-success'></i>
+                        </div>
+                    }
+                    @if (Title != null)
+                    {
+                        <h3 class="modal-title mt-2" style="font-size:@(TitleFontSize)px">
+                            @Title
+                        </h3>
+                    }
+                    @if (Message != null)
+                    {
+                        <p>
+                            @Message
+                        </p>
+                    }
+                    @if (BodyHtmlContent != null)
+                    {
+                        <div class="">
+                            @BodyHtmlContent
+                        </div>
+                    }
+                    <div class="modal-bottom mt-4">
+                        @if (!HideConfirmButton)
+                        {
+                            <button type="button" @onclick="OnConfirm" class="tm-btn btn @ConfirmButtonClass mx-1 px-3" data-bs-dismiss="modal">
+                                <div class="inner-btn">
+                                    <i class="ml-2 bx-sm bx bx-sm bx bx-tada-hover @ConfirmButtonIcon"></i>
+                                    <span>@ConfirmButtonText</span>
+                                </div>
+                            </button>
+
+                        }
+                        @if (!HideCanselButton)
+                        {
+                            <button type="button" @onclick="Cancel" class="tm-btn btn @CanselButtonClass mx-1 px-3" data-bs-dismiss="modal">
+                                <div class="inner-btn">
+                                    <i class="ml-2 bx-sm bx bx-sm bx bx-tada-hover @CancelButtonIcon"></i>
+                                    <span> @CancelButtonText</span>
+                                </div>
+                            </button>
+
+                        }
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @if (Backdrop)
+    {
+        if (!DisableBackdrop)
+        {
+            <div class="modal-backdrop fade show"></div>
+        }
+    }
+
+}
+
+

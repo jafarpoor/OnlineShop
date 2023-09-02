@@ -1,0 +1,58 @@
+﻿@if (!DisposeModal)
+{
+    <div class="modal modal-alert @ModalClass @(FadeModalAnimation?"fade":"")" tabindex="-1" aria-labelledby="exampleModalLabel" style="display:@ModalDisplay" aria-hidden="true">
+        <div class="modal-dialog @(DisableCentered?"modal-dialog-centered":"") alert-modal">
+            <div class="modal-content">
+                @if (!HideHeader)
+                {
+                    <div class="modal-header py-1 bg-danger m-0">
+                        <h2 class="modal-title fs-5 text-light" style="font-size:@(TitleFontSize)px">@Title </h2>
+                        <i class='bx @Icon text-light bx-lg bx-tada bx-md'></i>
+                    </div>
+                }
+                <div class="modal-body">
+                    @if (Message != null)
+                    {
+                        <div class="my-2">
+                            @Message
+                        </div>
+                    }
+                    @if (BodyHtmlContent != null)
+                    {
+                        <div class="my-2">
+                            @BodyHtmlContent
+                        </div>
+                    }
+                </div>
+                @if (!HideFooter)
+                {
+                    @if (DefultFooter)
+                    {
+                        <div class="modal-footer justify-content-start py-1">
+                            <button type="button" @onclick="(()=>Close())" class="btn btn-secondary" data-bs-dismiss="modal">@ConfirmButtonText</button>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="modal-footer py-1">
+                            <button type="button" @onclick="Confirm" class="btn btn-secondary" data-bs-dismiss="modal">@ConfirmButtonText</button>
+                        </div>
+                    }
+
+                }
+            </div>
+        </div>
+    </div>
+}
+@if (Backdrop)
+{
+    if (!DisableBackdrop)
+    {
+        <div class="modal-backdrop fade show"></div>
+    }
+}
+
+@code {
+
+
+}

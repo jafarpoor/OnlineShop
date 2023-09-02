@@ -93,6 +93,8 @@ F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\obj\Debug\net7.0\refint\En
 F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\obj\Debug\net7.0\EndPoint.Admin.Server.pdb
 F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\obj\Debug\net7.0\EndPoint.Admin.Server.genruntimeconfig.cache
 F:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\obj\Debug\net7.0\ref\EndPoint.Admin.Server.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Components.staticwebassets.runtime.json
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Properties\launchSettings.json
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Authorize.staticwebassets.runtime.json
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\libman.json
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\EndPoint.Admin.Client.staticwebassets.runtime.json
@@ -172,6 +174,7 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\runtimes\
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Application.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Authorize.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Components.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Domain.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\DTOs.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\EndPoint.Admin.Client.dll
@@ -184,6 +187,7 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\DTOs.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\EndPoint.Admin.Client.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\EndPoint.Admin.Shared.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Authorize.pdb
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Components.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Domain.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Resoures.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\obj\Debug\net7.0\EndPoint.Admin.Server.csproj.AssemblyReference.cache

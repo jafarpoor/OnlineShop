@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "izSfuSu0bd16K+r7X+MXPvAvT5ESS9Sm8RUGKESEqyk=",
+  "Hash": "0dbYNycEYcPqEP6xGXmwz4ItbfnErM8urqPGaWJej9Q=",
   "Source": "Authorize",
   "BasePath": "_content/Authorize",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\Components.csproj",
+      "Version": 2,
+      "Source": "Components",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "Authorize\\wwwroot",
@@ -13,9 +25,33 @@
       "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\",
       "BasePath": "_content/Authorize",
       "Pattern": "**"
+    },
+    {
+      "Name": "Components\\wwwroot",
+      "Source": "Components",
+      "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\wwwroot\\",
+      "BasePath": "_content/Components",
+      "Pattern": "**"
     }
   ],
   "Assets": [
+    {
+      "Identity": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Authorize.styles.css",
+      "SourceId": "Authorize",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Authorize",
+      "RelativePath": "Authorize.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Authorize.styles.css"
+    },
     {
       "Identity": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\_Layout.html",
       "SourceId": "Authorize",
@@ -2912,6 +2948,57 @@
       "SourceType": "Discovered",
       "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Authorize\\wwwroot\\",
       "BasePath": "_content/Authorize",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    },
+    {
+      "Identity": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Components.bundle.scp.css",
+      "SourceId": "Components",
+      "SourceType": "Project",
+      "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Components",
+      "RelativePath": "Components.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Components.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\wwwroot\\background.png",
+      "SourceId": "Components",
+      "SourceType": "Project",
+      "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\wwwroot\\",
+      "BasePath": "_content/Components",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "Components",
+      "SourceType": "Project",
+      "ContentRoot": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\wwwroot\\",
+      "BasePath": "_content/Components",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",
       "AssetMode": "All",

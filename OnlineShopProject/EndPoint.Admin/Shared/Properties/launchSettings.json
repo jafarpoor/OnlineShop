@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "EndPoint.Admin.Shared": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52770;http://localhost:52772"
+    }
+  }
+}

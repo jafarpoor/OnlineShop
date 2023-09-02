@@ -843,6 +843,8 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Blazored.LocalStorage.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Components.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Components.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Domain.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Domain.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.1.h6bkv5fxiq.js
@@ -1083,6 +1085,7 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Components.pdb.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\icudt.dat.gz
@@ -1114,6 +1117,7 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Application.pdb.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Components.dll.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
@@ -1325,6 +1329,8 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.IdentityModel.JsonWebTokens.dll.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Components.staticwebassets.runtime.json
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Properties\launchSettings.json
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Authorize.staticwebassets.runtime.json
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\libman.json
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\EndPoint.Admin.Client.staticwebassets.runtime.json
@@ -1560,6 +1566,7 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\icudt_EFI
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\icudt_no_CJK.dat
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Application.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Authorize.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Components.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Domain.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\DTOs.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\EndPoint.Admin.Shared.dll
@@ -1569,6 +1576,7 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Applicati
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\DTOs.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Authorize.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\EndPoint.Admin.Shared.pdb
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Components.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Domain.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Persistence.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Resoures.pdb
@@ -1808,6 +1816,7 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\SkRDMtAw.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\RBttZVYb.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\u88M2+Xl.gz
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\4IEQZJiC.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\fEgfOyKj.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\JbbzARaI.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\hFxSG2Q0.gz
@@ -1817,6 +1826,7 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\n9iiWjve.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\916Xb+3R.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\I305ON76.gz
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\+94WcDf5.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\TCVjiY3t.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\7ukNSHoM.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\rNWYG6O0.gz

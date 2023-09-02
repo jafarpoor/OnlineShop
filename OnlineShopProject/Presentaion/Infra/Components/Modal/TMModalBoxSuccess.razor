@@ -1,0 +1,39 @@
+﻿@if (!DisposeModal)
+{
+    <div class="modal modal-success @ModalClass @(FadeModalAnimation?"fade":"")" tabindex="-1" aria-labelledby="exampleModalLabel" style="display:@ModalDisplay" aria-hidden="true">
+        <div class="modal-dialog @(DisableCentered?"modal-dialog-centered":"")">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="success-modal py-5 text-center">
+                        @if (!HideIcon)
+                        {
+                            <div class="success-icon">
+                                <i class='bx @Icon bx-border-circle bx-lg bx-tada text-success'></i>
+                            </div>
+                        }
+                        @if (Title != null)
+                        {
+                            <h4 class="success-title mt-4" style="font-size:@(TitleFontSize)px">
+                                @Title
+                            </h4>
+                        }
+                        @if (@Message != null)
+                        {
+                            <p>
+                                @Message
+                            </p>
+                        }
+                        @if (BodyHtmlContent != null)
+                        {
+                            <div class="modalbox-content">
+                                @BodyHtmlContent
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+

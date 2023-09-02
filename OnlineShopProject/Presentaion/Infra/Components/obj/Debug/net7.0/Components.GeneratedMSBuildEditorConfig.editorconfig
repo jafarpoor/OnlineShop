@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = Components
+build_property.RootNamespace = Components
+build_property.ProjectDir = E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Components\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\OnlineShop\OnlineShopProject\Presentaion\Infra\Components
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/OnlineShop/OnlineShopProject/Presentaion/Infra/Components/Modal/TMModalBox.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kYWxcVE1Nb2RhbEJveC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-8hwxde84sk
+
+[E:/OnlineShop/OnlineShopProject/Presentaion/Infra/Components/Modal/TMModalBoxAlert.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kYWxcVE1Nb2RhbEJveEFsZXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-b3zsvlbx4h
+
+[E:/OnlineShop/OnlineShopProject/Presentaion/Infra/Components/Modal/TMModalBoxError.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kYWxcVE1Nb2RhbEJveEVycm9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-nm9udxdk6m
+
+[E:/OnlineShop/OnlineShopProject/Presentaion/Infra/Components/Modal/TMModalBoxInfomation.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kYWxcVE1Nb2RhbEJveEluZm9tYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rpnzckqc5d
+
+[E:/OnlineShop/OnlineShopProject/Presentaion/Infra/Components/Modal/TMModalBoxQuestion.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kYWxcVE1Nb2RhbEJveFF1ZXN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-6olwk14l1q
+
+[E:/OnlineShop/OnlineShopProject/Presentaion/Infra/Components/Modal/TMModalBoxSuccess.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kYWxcVE1Nb2RhbEJveFN1Y2Nlc3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-s10w8pui76

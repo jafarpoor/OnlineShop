@@ -1,4 +1,5 @@
-﻿using Domain.Entity.Base;
+﻿using Domain.Entity;
+using Domain.Entity.Base;
 using Microsoft.EntityFrameworkCore;
 
 namespace Persistence.Context
@@ -10,7 +11,7 @@ namespace Persistence.Context
 
         }
         public DbSet<User> Users { get; set; }
-
+        public DbSet<ProductType> ProductTypes { get; set; }
         public override int SaveChanges()
         {
             var entries = ChangeTracker

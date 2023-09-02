@@ -1,0 +1,52 @@
+﻿@if (!DisposeModal)
+{
+    <div class="modal modal-error @ModalClass @(FadeModalAnimation?"fade":"")" tabindex="-1" aria-labelledby="exampleModalLabel" style="display:@ModalDisplay" aria-hidden="true">
+        <div class="modal-dialog @(DisableCentered?"modal-dialog-centered":"")">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="success-modal py-5 text-center">
+                        @if (!HideIcon)
+                        {
+                            <div class="error-icon">
+                                <i class='bx @Icon bx-border-circle bx-lg bx-tada text-danger'></i>
+                            </div>
+                        }
+                        @if (Title != null)
+                        {
+                            <h3 class="mt-4 modal-title" style="font-size:@(TitleFontSize)px">
+                                @Title
+                            </h3>
+                        }
+
+                        @if (Message != null)
+                        {
+                            <p>
+                                @Message
+                            </p>
+                        }
+                        @if (BodyHtmlContent != null)
+                        {
+                            <div class="modalbox-content">
+                                @BodyHtmlContent
+                            </div>
+                        }
+                        @if (ShowConfirmButton)
+                        {
+                            <div class="modal-bottom mt-4">
+                                <button type="button" @onclick="Confirm" class="btn @ConfirmButtonClass px-3" data-bs-dismiss="modal">@ConfirmButtonText</button>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+@if (Backdrop)
+{
+    if (!DisableBackdrop)
+    {
+        <div class="modal-backdrop fade show"></div>
+    }
+}

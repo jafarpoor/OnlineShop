@@ -1,0 +1,50 @@
+﻿@if (!DisposeModal)
+{
+    <div class="modal modal-information @ModalAnimationClass @(FadeModalAnimation?"fade":"")" tabindex="-1" aria-labelledby="exampleModalLabel" style="display:@ModalDisplay" aria-hidden="true">
+        <div class="modal-dialog @(DisableCentered?"modal-dialog-centered":"")">
+            <div class="modal-content">
+                <div class="modal-body py-5 text-center">
+                    @if (ShowIcon)
+                    {
+                        <div class="infomation-icon">
+                            <i class='bx @Icon bx-lg bx-tada text-info'></i>
+                        </div>
+                    }
+                    @if (Title != null)
+                    {
+                        <h3 class="modal-title mt-2" style="font-size:@(TitleFontSize)px">
+                            @Title
+                        </h3>
+                    }
+                    @if (Message != null)
+                    {
+                        <p>
+                            @Message
+                        </p>
+                    }
+                    @if (BodyHtmlContent != null)
+                    {
+                        <div class="modalbox-content">
+                            @BodyHtmlContent
+                        </div>
+                    }
+                    @if (!HideCanselButton)
+                    {
+                        <div class="modal-bottom mt-4">
+                            <button type="button" @onclick="Confirm" class="btn @ConfirmButtonClass px-4" data-bs-dismiss="modal">@ConfirmButtonText</button>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+    @if (Backdrop)
+    {
+        if (!DisableBackdrop)
+        {
+            <div class="modal-backdrop fade show"></div>
+        }
+    }
+
+}
+

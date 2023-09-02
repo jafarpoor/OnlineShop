@@ -833,13 +833,23 @@
       },
       "Authorize/1.0.0": {
         "dependencies": {
+          "Application": "1.0.0",
           "Blazored.LocalStorage": "4.4.0",
+          "Components": "1.0.0",
           "DTOs": "1.0.0",
           "Microsoft.AspNetCore.Components.Authorization": "7.0.8",
           "Microsoft.AspNetCore.Components.Web": "7.0.1"
         },
         "runtime": {
           "Authorize.dll": {}
+        }
+      },
+      "Components/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "7.0.1"
+        },
+        "runtime": {
+          "Components.dll": {}
         }
       },
       "Domain/1.0.0": {
@@ -1520,6 +1530,11 @@
       "sha512": ""
     },
     "Authorize/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Components/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

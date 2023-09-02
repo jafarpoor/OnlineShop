@@ -1,0 +1,14 @@
+.alert-modal .bx-tada[b-nm9udxdk6m] {
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+}
+
+.modal-content[b-nm9udxdk6m] {
+    border: 0;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.15);
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.15);
+}
+.modal-error[b-nm9udxdk6m]{
+    z-index:1061;
+}

@@ -559,8 +559,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj": {
+                "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Application\\Application.csproj"
+              },
               "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\DTO\\DTOs\\DTOs.csproj": {
                 "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\DTO\\DTOs\\DTOs.csproj"
+              },
+              "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\Components.csproj": {
+                "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\Components.csproj"
               }
             }
           }
@@ -583,6 +589,67 @@
               "target": "Package",
               "version": "[7.0.8, )"
             },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\Components.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\Components.csproj",
+        "projectName": "Components",
+        "projectPath": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\Components.csproj",
+        "packagesPath": "C:\\Users\\jafarpoor-f\\.nuget\\packages\\",
+        "outputPath": "E:\\OnlineShop\\OnlineShopProject\\Presentaion\\Infra\\Components\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jafarpoor-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
             "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",
               "version": "[7.0.1, )"
