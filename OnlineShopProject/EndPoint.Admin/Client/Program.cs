@@ -3,7 +3,6 @@ using Application.Repository.Base;
 using Authorize.Services;
 using Blazored.LocalStorage;
 using EndPoint.Admin.Client;
-using Infra;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
@@ -22,5 +21,4 @@ builder.Services.AddTransient<Authorize.Base.IBaseHttpService, Authorize.Base.Ba
 builder.Services.AddTransient<IDataBaseContext, DataBaseContext>();
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
 builder.Services.AddTransient<UserServices>();
-builder.AddClientServices();
 await builder.Build().RunAsync();

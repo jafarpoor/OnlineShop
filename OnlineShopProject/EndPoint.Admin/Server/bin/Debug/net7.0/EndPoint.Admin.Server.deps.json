@@ -78,6 +78,7 @@
           }
         }
       },
+      "LibSassBuilder/2.0.1": {},
       "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.8": {
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.21.0"
@@ -594,6 +595,20 @@
           }
         }
       },
+      "Radzen.Blazor/4.15.9": {
+        "dependencies": {
+          "LibSassBuilder": "2.0.1",
+          "Microsoft.AspNetCore.Components": "7.0.8",
+          "Microsoft.AspNetCore.Components.Web": "7.0.1",
+          "System.Linq.Dynamic.Core": "1.3.0"
+        },
+        "runtime": {
+          "lib/net7.0/Radzen.Blazor.dll": {
+            "assemblyVersion": "4.15.9.0",
+            "fileVersion": "4.15.9.0"
+          }
+        }
+      },
       "System.Buffers/4.5.1": {},
       "System.CodeDom/4.4.0": {
         "runtime": {
@@ -671,6 +686,14 @@
         }
       },
       "System.IO.Pipelines/7.0.0": {},
+      "System.Linq.Dynamic.Core/1.3.0": {
+        "runtime": {
+          "lib/net7.0/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
+          }
+        }
+      },
       "System.Memory/4.5.4": {},
       "System.Memory.Data/1.0.2": {
         "dependencies": {
@@ -873,7 +896,8 @@
           "DTOs": "1.0.0",
           "EndPoint.Admin.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.Authorization": "7.0.8",
-          "Microsoft.AspNetCore.Components.WebAssembly": "7.0.1"
+          "Microsoft.AspNetCore.Components.WebAssembly": "7.0.1",
+          "Radzen.Blazor": "4.15.9"
         },
         "runtime": {
           "EndPoint.Admin.Client.dll": {}
@@ -935,6 +959,13 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "LibSassBuilder/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f+7TWQtCirW94VdzKL9SaAfeSF96TeEqdtDztmTGbndrcUlZZlL6uJLZKQCXQgj1BB3OqX0584OCvqFHrkAusA==",
+      "path": "libsassbuilder/2.0.1",
+      "hashPath": "libsassbuilder.2.0.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.8": {
       "type": "package",
@@ -1314,6 +1345,13 @@
       "path": "mono.texttemplating/2.2.1",
       "hashPath": "mono.texttemplating.2.2.1.nupkg.sha512"
     },
+    "Radzen.Blazor/4.15.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nVBe1PQ/hyLcRs4elPGdvon1uj0BITjvthJU4sjY2wNEB1V63W/4N2K9Dpm9roumB87KM2JFMPf+pL2zY0e/Mw==",
+      "path": "radzen.blazor/4.15.9",
+      "hashPath": "radzen.blazor.4.15.9.nupkg.sha512"
+    },
     "System.Buffers/4.5.1": {
       "type": "package",
       "serviceable": true,
@@ -1383,6 +1421,13 @@
       "sha512": "sha512-jRn6JYnNPW6xgQazROBLSfpdoczRw694vO5kKvMcNnpXuolEixUyw6IBuBs2Y2mlSX/LdLvyyWmfXhaI3ND1Yg==",
       "path": "system.io.pipelines/7.0.0",
       "hashPath": "system.io.pipelines.7.0.0.nupkg.sha512"
+    },
+    "System.Linq.Dynamic.Core/1.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WocaU/koGKDu/kiHGJCT6ocqqygQmD5B+9nCyA3nWbMywvPVRhtre1rTHCUNdoi6ZBnPOMvkqqx8oVkP1VCy3Q==",
+      "path": "system.linq.dynamic.core/1.3.0",
+      "hashPath": "system.linq.dynamic.core.1.3.0.nupkg.sha512"
     },
     "System.Memory/4.5.4": {
       "type": "package",

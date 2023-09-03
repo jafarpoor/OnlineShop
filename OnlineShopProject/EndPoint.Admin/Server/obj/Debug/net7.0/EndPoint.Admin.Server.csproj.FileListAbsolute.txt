@@ -212,3 +212,5 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\obj\Debug\net7.0\refint\En
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\obj\Debug\net7.0\EndPoint.Admin.Server.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\obj\Debug\net7.0\EndPoint.Admin.Server.genruntimeconfig.cache
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\obj\Debug\net7.0\ref\EndPoint.Admin.Server.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\Radzen.Blazor.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Server\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll

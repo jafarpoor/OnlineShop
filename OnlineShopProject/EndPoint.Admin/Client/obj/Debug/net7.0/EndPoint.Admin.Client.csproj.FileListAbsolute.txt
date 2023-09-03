@@ -1850,3 +1850,12 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\refint\EndPoint.Admin.Client.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\EndPoint.Admin.Client.pdb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\ref\EndPoint.Admin.Client.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Radzen.Blazor.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll.gz
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\wwwroot\_framework\Radzen.Blazor.dll.gz
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Radzen.Blazor.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\RKJVsSPa.gz
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\O8CQrOb4.gz
+E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\scopedcss\Shared\CustomNavMenu.razor.rz.scp.css
