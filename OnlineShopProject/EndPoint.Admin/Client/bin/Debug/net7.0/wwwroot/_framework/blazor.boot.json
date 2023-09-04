@@ -238,7 +238,7 @@
       "EndPoint.Admin.Shared.dll": "sha256-8a9MB6PUjLV8iz+doOTqEd3kob4BZOVsW90uVFdvACk=",
       "Persistence.dll": "sha256-0y1X0VHkr1fYjuYAgQzvgY1kus4AYVwNMgYllpKWYvQ=",
       "Resoures.dll": "sha256-k\/WV\/5LDYEBXmiZ\/2t7\/rhhmvY+Whgj9k+1Ndx9XOqA=",
-      "EndPoint.Admin.Client.dll": "sha256-Ykj8\/Czv4f4Z2v56x6aGaPuAUY\/H3GHTA526NHWe5t0="
+      "EndPoint.Admin.Client.dll": "sha256-1dlwKs0f8Cq\/G+t4swBpsrVdyAz6dP+uZq0el+lo1a4="
     },
     "extensions": null,
     "lazyAssembly": null,
@@ -252,7 +252,7 @@
       "Domain.pdb": "sha256-\/sJLDF+imkFI7DbvrGkLTDGOJN7kOWhPT84rQs4lry8=",
       "Persistence.pdb": "sha256-UfJgAXbt8Jet7i\/LDF0Va9QL6oZXQRVBv9G3\/pT6IYk=",
       "Resoures.pdb": "sha256-AVtsWlYJkP9MR1Qb9lIfSxIKOGpoOQgazO77ablJ6lY=",
-      "EndPoint.Admin.Client.pdb": "sha256-D\/q3p+T4vifCUy6deL2H75PWretkf1ffpIr4HLWtc78="
+      "EndPoint.Admin.Client.pdb": "sha256-jawMun+I+kCTCCpv\/CEoe5nqdiNSafoqtxSZy1n\/8R8="
     },
     "runtime": {
       "dotnet.7.0.1.h6bkv5fxiq.js": "sha256-jjax3FMRXzFAziWowdtJf6vipP2xXAaA5gD6VBYB6Y0=",

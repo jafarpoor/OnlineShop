@@ -28,6 +28,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcUHJvZHVjdFR5cGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/OnlineShop/OnlineShopProject/EndPoint.Admin/Client/Shared/CustomNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEN1c3RvbU5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OnlineShop/OnlineShopProject/EndPoint.Admin/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/OnlineShop/OnlineShopProject/EndPoint.Admin/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -35,14 +43,6 @@ build_metadata.AdditionalFiles.CssScope =
 [E:/OnlineShop/OnlineShopProject/EndPoint.Admin/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[E:/OnlineShop/OnlineShopProject/EndPoint.Admin/Client/Shared/CustomNavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEN1c3RvbU5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-l015ijr4pu
-
-[E:/OnlineShop/OnlineShopProject/EndPoint.Admin/Client/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-w4kgdj7t6f
 
 [E:/OnlineShop/OnlineShopProject/EndPoint.Admin/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=

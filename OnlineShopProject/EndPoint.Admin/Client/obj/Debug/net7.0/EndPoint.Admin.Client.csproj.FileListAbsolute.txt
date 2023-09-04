@@ -1841,7 +1841,6 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\staticweb
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\staticwebassets.pack.json
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\staticwebassets.build.json
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\staticwebassets.development.json
-E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\scopedcss\bundle\EndPoint.Admin.Client.styles.css
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\scopedcss\projectbundle\EndPoint.Admin.Client.bundle.scp.css
@@ -1858,4 +1857,3 @@ E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\Radzen.Bl
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\RKJVsSPa.gz
 E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\build-gz\O8CQrOb4.gz
-E:\OnlineShop\OnlineShopProject\EndPoint.Admin\Client\obj\Debug\net7.0\scopedcss\Shared\CustomNavMenu.razor.rz.scp.css

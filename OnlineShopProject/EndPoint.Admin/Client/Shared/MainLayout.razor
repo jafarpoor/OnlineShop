@@ -1,14 +1,122 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="page">
-    <div class="sidebar">
-        <CustomNavMenu />
+<div>
+    <CustomNavMenu />
+    <div class="main-container" id="container">
+
+        <div class="overlay"></div>
+        <div class="cs-overlay"></div>
+        <div class="search-overlay"></div>
+
+        <div class="sidebar-wrapper sidebar-theme">
+
+            <nav id="sidebar">
+                <div class="profile-info">
+                    <figure class="user-cover-image"></figure>
+                    <div class="user-info">
+                        <img src="assets/img/90x90.jpg" alt="avatar">
+                        <h6 class="">ایمان پاکروح</h6>
+                        <p class="">مدیر پروژه</p>
+                    </div>
+                </div>
+                <div class="shadow-bottom"></div>
+                <ul class="list-unstyled menu-categories" id="accordionExample">
+                    <li class="menu active">
+                        <a href="#dashboard" data-toggle="collapse" aria-expanded="true" class="dropdown-toggle">
+                            <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+                                <span>داشبورد</span>
+                            </div>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                            </div>
+                        </a>
+                        <ul class="collapse submenu recent-submenu mini-recent-submenu list-unstyled show" id="dashboard" data-parent="#accordionExample">
+                            <li class="active">
+                                <a href="index.html"> فروش ها </a>
+                            </li>
+                            <li>
+                                <a href="index2.html"> تجزیه و تحلیل </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="menu">
+                        <a href="#datatables" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                            <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-layers"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+                                <span>جداول داده</span>
+                            </div>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                            </div>
+                        </a>
+                        <ul class="collapse submenu list-unstyled" id="datatables" data-parent="#accordionExample">
+                            <li>
+                                <a href="table_dt_basic.html"> پایه ای </a>
+                            </li>
+                            <li>
+                                <a href="table_dt_basic-dark.html"> تاریک </a>
+                            </li>
+                            <li>
+                                <a href="table_dt_ordering_sorting.html"> ترتیب مرتب سازی </a>
+                            </li>
+                            <li>
+                                <a href="table_dt_multi-column_ordering.html"> چند ستونه </a>
+                            </li>
+                            <li>
+                                <a href="table_dt_multiple_tables.html"> جداول چندگانه</a>
+                            </li>
+                            <li>
+                                <a href="table_dt_alternative_pagination.html"> پیغام صفحه</a>
+                            </li>
+                            <li>
+                                <a href="table_dt_custom.html"> سفارشی </a>
+                            </li>
+                            <li>
+                                <a href="table_dt_range_search.html"> دامنه جستجو </a>
+                            </li>
+                            <li>
+                                <a href="table_dt_html5.html"> صادرات HTML5</a>
+                            </li>
+                            <li>
+                                <a href="table_dt_live_dom_ordering.html"> سفارش DOM زنده </a>
+                            </li>
+                            <li>
+                                <a href="table_dt_miscellaneous.html"> متفرقه </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="menu">
+                        <a href="#dataform" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                            <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-layers"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+                                <span>اطلاعات پایه</span>
+                            </div>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                            </div>
+                        </a>
+                        <ul class="collapse submenu list-unstyled" id="dataform" data-parent="#accordionExample">
+                            <li>
+                                <a href="ProductType">گروه کالا</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                </ul>
+
+            </nav>
+
+        </div>
+        <div id="content" class="main-content">
+            <div class="container">
+                <div class="container">
+                    @Body
+                </div>
+            </div>
+        </div>
+
     </div>
-
-    <main>
-        <article class="content px-4">
-            @Body
-        </article>
-    </main>
-
 </div>

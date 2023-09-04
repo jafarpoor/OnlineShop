@@ -5,7 +5,7 @@
         <div class="widget-header">
             <div class="row">
                 <div class="col-xl-12 col-md-12 col-sm-12 col-12">
-                    <h4>ورودیی متن</h4>
+                    <h4>گروه کالا</h4>
                 </div>
             </div>
         </div>
@@ -15,10 +15,9 @@
                 <div class="col-lg-6 col-12 mx-auto">
                     <form method="post">
                         <div class="form-group">
-                            <p>از ورودی <code>type="text"</code>استفاده کنید</p>
-                            <label for="t-text" class="sr-only">متن</label>
-                            <input id="t-text" type="text" name="txt" placeholder="متن اینجا وارد میشود" class="form-control" required="">
-                            <input type="submit" value="ارسال" name="txt" class="mt-4 btn btn-primary">
+                            <label for="t-text" class="sr-only">گروه کالا</label>
+                            <InputText id="t-text" @bind-Value="GroupTypeName" placeholder="گروه کالا را وارد کنید " class="form-control"></InputText>
+                           <RadzenButton type="submit" name="txt" class="mt-4 btn btn-primary">ذخیره </RadzenButton>
                         </div>
                     </form>
                 </div>
