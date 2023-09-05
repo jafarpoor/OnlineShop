@@ -1620,6 +1620,7 @@
           "Application": "1.0.0",
           "Authorize": "1.0.0",
           "Blazored.LocalStorage": "4.4.0",
+          "Components": "1.0.0",
           "DTOs": "1.0.0",
           "EndPoint.Admin.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.Authorization": "7.0.8",

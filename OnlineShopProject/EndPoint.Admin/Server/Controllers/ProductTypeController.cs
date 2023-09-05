@@ -19,7 +19,7 @@ namespace EndPoint.Admin.Server.Controllers
             _unitOfWork = unitOfWork;
         }
 
-        [HttpPost("Save")]
+        [HttpPost]
         public ActionResult Save([FromBody] ProductTypeViewModel model)
         {
             //Massage

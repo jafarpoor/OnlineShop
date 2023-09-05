@@ -14,3 +14,4 @@ E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\Res
 E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\refint\Resoures.dll
 E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\Resoures.pdb
 E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\ref\Resoures.dll
+E:\OnlineShop\OnlineShopProject\Presentaion\Shared\Resoures\obj\Debug\net7.0\Resoures.Buttons.resources

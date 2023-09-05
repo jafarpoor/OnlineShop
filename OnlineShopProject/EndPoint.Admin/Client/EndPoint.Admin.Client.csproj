@@ -18,6 +18,7 @@
     <ProjectReference Include="..\..\Application\Application.csproj" />
     <ProjectReference Include="..\..\Presentaion\DTO\DTOs\DTOs.csproj" />
     <ProjectReference Include="..\..\Presentaion\Infra\Authorize\Authorize.csproj" />
+    <ProjectReference Include="..\..\Presentaion\Infra\Components\Components.csproj" />
     <ProjectReference Include="..\Shared\EndPoint.Admin.Shared.csproj" />
   </ItemGroup>
 

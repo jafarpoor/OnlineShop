@@ -18,24 +18,24 @@ builder.Services.AddRazorPages();
 //builder.Services.AddIdentity<IdentityUser, IdentityRole>()
 //    .AddEntityFrameworkStores<ProductContext>();
 
-var jwtSettings = builder.Configuration.GetSection("JWTSettings");
-builder.Services.AddAuthentication(opt =>
-{
-    opt.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-    opt.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-}).AddJwtBearer(options =>
-{
-    options.TokenValidationParameters = new TokenValidationParameters
-    {
-        ValidateIssuer = true,
-        ValidateAudience = true,
-        ValidateLifetime = true,
-        ValidateIssuerSigningKey = true,
-        ValidIssuer = jwtSettings["validIssuer"],
-        ValidAudience = jwtSettings["validAudience"],
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings["securityKey"]))
-    };
-});
+//var jwtSettings = builder.Configuration.GetSection("JWTSettings");
+//builder.Services.AddAuthentication(opt =>
+//{
+//    opt.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+//    opt.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+//}).AddJwtBearer(options =>
+//{
+//    options.TokenValidationParameters = new TokenValidationParameters
+//    {
+//        ValidateIssuer = true,
+//        ValidateAudience = true,
+//        ValidateLifetime = true,
+//        ValidateIssuerSigningKey = true,
+//        ValidIssuer = jwtSettings["validIssuer"],
+//        ValidAudience = jwtSettings["validAudience"],
+//        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings["securityKey"]))
+//    };
+//});
 
 #endregion
 
@@ -76,5 +76,10 @@ app.UseRouting();
 app.MapRazorPages();
 app.MapControllers();
 app.MapFallbackToFile("index.html");
-
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllerRoute(
+        name: "default",
+        pattern: "{controller}/{action}/{id?}");
+});
 app.Run();
