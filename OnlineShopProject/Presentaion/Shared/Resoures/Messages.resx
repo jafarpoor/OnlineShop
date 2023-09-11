@@ -129,6 +129,9 @@
     <value>آیا مطمئن هستید ردیف جاری حذف شود؟</value>
     <comment>msg</comment>
   </data>
+  <data name="EnterProductName" xml:space="preserve">
+    <value>نام گروه محصول را وارد کنید</value>
+  </data>
   <data name="EnterTitleMsg" xml:space="preserve">
     <value>عنوان را وارد کنید</value>
     <comment>msg</comment>

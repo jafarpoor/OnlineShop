@@ -88,6 +88,15 @@ namespace Resoures {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to نام گروه محصول را وارد کنید.
+        /// </summary>
+        public static string EnterProductName {
+            get {
+                return ResourceManager.GetString("EnterProductName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to عنوان را وارد کنید.
         /// </summary>
         public static string EnterTitleMsg {

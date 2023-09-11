@@ -10,3 +10,15 @@ F:\OnlineShop\OnlineShopProject\Infrastructure\obj\Debug\net7.0\Infrastructure.d
 F:\OnlineShop\OnlineShopProject\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 F:\OnlineShop\OnlineShopProject\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 F:\OnlineShop\OnlineShopProject\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+E:\OnlineShop\OnlineShopProject\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+E:\OnlineShop\OnlineShopProject\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+E:\OnlineShop\OnlineShopProject\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+E:\OnlineShop\OnlineShopProject\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+E:\OnlineShop\OnlineShopProject\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\OnlineShop\OnlineShopProject\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+E:\OnlineShop\OnlineShopProject\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+E:\OnlineShop\OnlineShopProject\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\OnlineShop\OnlineShopProject\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+E:\OnlineShop\OnlineShopProject\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+E:\OnlineShop\OnlineShopProject\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+E:\OnlineShop\OnlineShopProject\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

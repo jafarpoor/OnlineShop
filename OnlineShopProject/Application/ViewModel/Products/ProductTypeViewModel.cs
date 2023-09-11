@@ -2,7 +2,7 @@
 {
     public class ProductTypeViewModel
     {
-        public int Id { get; set; }
+        public long Id { get; set; }
         public string ProductTypeName { get; set; } = string.Empty;
     }
 }

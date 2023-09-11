@@ -10,6 +10,12 @@ namespace EndPoint.Admin.Client.Pages.Products
         private string _modalMessage = string.Empty;
         private TMModalBoxAlert? _alert;
         private TMModalBoxSuccess? _success;
+        public IEnumerable<ProductTypeViewModel>? _products;
+
+        protected override async Task OnInitializedAsync()
+        {
+            await LoadGrid();
+        }
         private async Task  Save()
         {
             ProductTypeViewModel pt = new ProductTypeViewModel
@@ -28,7 +34,7 @@ namespace EndPoint.Admin.Client.Pages.Products
             if (result.IsSuccess)
             {
                 _success?.Open();
-              /*  await LoadGrid()*/;
+                await LoadGrid();
             }
             else
             {
@@ -39,6 +45,11 @@ namespace EndPoint.Admin.Client.Pages.Products
         private void OnConfirm()
         {
             _alert?.Close();
+        }
+
+        private async Task LoadGrid()
+        {
+            _products = await ProductTypeServices.GetAll("ProductType/Get");
         }
     }
 }

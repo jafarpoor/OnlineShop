@@ -17,9 +17,9 @@ namespace EndPoint.Admin.Client.ClientServices
             return resp;
         }
 
-        public async Task<BaseDto<List<ProductTypeViewModel>>> Get(string url)
+        public async Task<List<ProductTypeViewModel>> Get(string url)
         {
-            var resp = await GetAll<BaseDto<List<ProductTypeViewModel>>>(url);
+            var resp = await GetAll<List<ProductTypeViewModel>>(url);
             return resp;
         }
 
