@@ -10,6 +10,11 @@ public interface IDataBaseContext : IDisposable
 {
     DbSet<User> Users { get; set; }
     DbSet<ProductType> ProductTypes { get; set; }
+     DbSet<ProductItem> ProductItems { get; set; }
+     DbSet<Image> Images { get; set; }
+     DbSet<Feature> Features { get; set; }
+     DbSet<Color> Colors { get; set; }
+
     int SaveChanges(bool acceptAllChangesOnSuccess);
     int SaveChanges();
     Task<int> SaveChangesAsync(bool acceptAllChangesOnSuccess, CancellationToken cancellationToken = default);
