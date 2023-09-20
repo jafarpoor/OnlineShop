@@ -6,6 +6,7 @@
         public long Id { get; set; }
         public string Name { get; set; } = string.Empty;
         public long Price { get; set; }
+        public long? TotalPrice { get; set; }
         public string Image { get; set; } =string.Empty;
     }
 }

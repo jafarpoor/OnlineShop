@@ -106,6 +106,15 @@ namespace Resoures {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to متاسفانه مشکلی پیش آممده لطفا با پشتیبانی تماس بگیرید.
+        /// </summary>
+        public static string Error {
+            get {
+                return ResourceManager.GetString("Error", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to آبجکت مورد نظر پیدا نشد.
         /// </summary>
         public static string FailedFindMsg {

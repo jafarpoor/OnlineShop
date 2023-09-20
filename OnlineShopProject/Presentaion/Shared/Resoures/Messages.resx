@@ -136,6 +136,9 @@
     <value>عنوان را وارد کنید</value>
     <comment>msg</comment>
   </data>
+  <data name="Error" xml:space="preserve">
+    <value>متاسفانه مشکلی پیش آممده لطفا با پشتیبانی تماس بگیرید</value>
+  </data>
   <data name="FailedFindMsg" xml:space="preserve">
     <value>آبجکت مورد نظر پیدا نشد</value>
     <comment>msg</comment>
