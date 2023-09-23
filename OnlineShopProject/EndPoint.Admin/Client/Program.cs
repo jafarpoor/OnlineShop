@@ -23,4 +23,5 @@ builder.Services.AddTransient<IDataBaseContext, DataBaseContext>();
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
 builder.Services.AddTransient<UserServices>();
 builder.Services.AddTransient<ProductTypeServices>();
+builder.Services.AddTransient<ProductItemServices>();
 await builder.Build().RunAsync();

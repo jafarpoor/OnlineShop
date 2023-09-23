@@ -9,7 +9,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-
+using Resx = Resoures;
 namespace EndPoint.Admin.Server.Controllers
 {
     public class AccountController : Controller
@@ -72,19 +72,39 @@ namespace EndPoint.Admin.Server.Controllers
             return tokenOptions;
         }
 
-        [HttpPost("Register")]
+        [HttpPost]
         public ActionResult Register([FromBody] RegisterUserViewModel model)
         {
-            //Massage
-            User user = new User() { 
-                FristName = model.FristName ,
-                LastName = model.LastName ,
-                PhoneNumber = model.PhoneNumber ,
-                Email= model.Email ,
-            };
-            _unitOfWork.RegisterUserRepository.Insert(user);
-            _unitOfWork.Save();
-            return Json(new BaseDto { IsSuccess = true , Message="" });
+            if (string.IsNullOrEmpty(model.FristName))
+                return Json(new BaseDto { IsSuccess = false, Message = Resx.Messages.EnterName});
+
+            if (string.IsNullOrEmpty(model.LastName))
+                return Json(new BaseDto { IsSuccess = false, Message = Resx.Messages.EnterLastName });
+
+            if (string.IsNullOrEmpty(model.PhoneNumber))
+                return Json(new BaseDto { IsSuccess = false, Message = Resx.Messages.EnterPhoneNumber});
+
+            if (string.IsNullOrEmpty(model.Password))
+                return Json(new BaseDto { IsSuccess = false, Message = Resx.Messages.EnterPassword });
+
+            try
+            {
+                User user = new User()
+                {
+                    FristName = model.FristName,
+                    LastName = model.LastName,
+                    PhoneNumber = model.PhoneNumber,
+                    Email = model.Email,
+                };
+                _unitOfWork.RegisterUserRepository.Insert(user);
+                _unitOfWork.Save();
+                return Json(new BaseDto { IsSuccess = true, Message = Resx.Messages.SuccessInsertMsg });
+            }
+            catch (Exception)
+            {
+                return Json(new BaseDto { IsSuccess = false, Message = Resx.Messages.Error });
+            }
+    
         }
     }
 }

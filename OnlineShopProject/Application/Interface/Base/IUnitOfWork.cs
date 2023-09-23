@@ -8,5 +8,6 @@ namespace Application.Interface.Base
         void Save();
         IRegisterUserRepository RegisterUserRepository { get; }
         IProductTypeRepository ProductTypeRepository { get; }
+        IProductItemRepository ProductItemRepository { get; }
     }
 }

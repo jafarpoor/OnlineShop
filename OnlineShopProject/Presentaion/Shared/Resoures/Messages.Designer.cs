@@ -88,6 +88,51 @@ namespace Resoures {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ایمیل را وارد کنید.
+        /// </summary>
+        public static string EnterEmail {
+            get {
+                return ResourceManager.GetString("EnterEmail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to لطفا نام خانوادگی را وارد کنید.
+        /// </summary>
+        public static string EnterLastName {
+            get {
+                return ResourceManager.GetString("EnterLastName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to لطفا نام را وارد کنید.
+        /// </summary>
+        public static string EnterName {
+            get {
+                return ResourceManager.GetString("EnterName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to پسورد را وارد کنید .
+        /// </summary>
+        public static string EnterPassword {
+            get {
+                return ResourceManager.GetString("EnterPassword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to شماره تلفن را وارد کنید.
+        /// </summary>
+        public static string EnterPhoneNumber {
+            get {
+                return ResourceManager.GetString("EnterPhoneNumber", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to نام گروه محصول را وارد کنید.
         /// </summary>
         public static string EnterProductName {

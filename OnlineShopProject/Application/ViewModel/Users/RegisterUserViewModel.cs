@@ -8,7 +8,7 @@ namespace Application.ViewModel.Users
     {
         [Display(ResourceType = typeof(DD), Name = nameof(DD.UserName))]
         [Required(ErrorMessageResourceType = typeof(Resx.General), ErrorMessageResourceName = nameof(Resx.General.Required))]
-        public string UserName { get; set; }
+        public string UserName { get; set; } = string.Empty;
 
         [Display(ResourceType = typeof(DD), Name = nameof(DD.FristName))]
         [Required(ErrorMessageResourceType = typeof(Resx.General), ErrorMessageResourceName = nameof(Resx.General.Required))]

@@ -129,6 +129,21 @@
     <value>آیا مطمئن هستید ردیف جاری حذف شود؟</value>
     <comment>msg</comment>
   </data>
+  <data name="EnterEmail" xml:space="preserve">
+    <value>ایمیل را وارد کنید</value>
+  </data>
+  <data name="EnterLastName" xml:space="preserve">
+    <value>لطفا نام خانوادگی را وارد کنید</value>
+  </data>
+  <data name="EnterName" xml:space="preserve">
+    <value>لطفا نام را وارد کنید</value>
+  </data>
+  <data name="EnterPassword" xml:space="preserve">
+    <value>پسورد را وارد کنید </value>
+  </data>
+  <data name="EnterPhoneNumber" xml:space="preserve">
+    <value>شماره تلفن را وارد کنید</value>
+  </data>
   <data name="EnterProductName" xml:space="preserve">
     <value>نام گروه محصول را وارد کنید</value>
   </data>

@@ -36,6 +36,7 @@ namespace Application.Repository.Base
         #region Interface
         private IRegisterUserRepository _registerUserRepository = null!;
         private IProductTypeRepository _productTypeRepository = null!;
+        private IProductItemRepository _productItemRepository =null!;
         public IRegisterUserRepository RegisterUserRepository
         {
             get
@@ -51,6 +52,15 @@ namespace Application.Repository.Base
             {
                 _productTypeRepository ??= new ProductTypeRepository(_ctx);
                 return _productTypeRepository;
+            }
+        }
+
+        public IProductItemRepository ProductItemRepository
+        {
+            get
+            {
+                _productItemRepository ??=new ProductItemRepository(_ctx);
+                return _productItemRepository;
             }
         }
         #endregion
